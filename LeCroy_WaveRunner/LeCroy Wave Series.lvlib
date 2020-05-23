@@ -1,10 +1,10 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="13008000">
+<Library LVVersion="20008000">
 	<Property Name="Instrument Driver" Type="Str">True</Property>
 	<Property Name="NI.Lib.Description" Type="Str">This driver configures and aquires waveforms from LeCroy WaveSurfer, WaveRunner, WaveMaster, and WavePro oscilloscopes.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*)!!!*Q(C=\&gt;3PDBJ2&amp;-@R(]W+42VPU*$7L$WWEB?I1&amp;3M0;_!23*XZ%F;7=-LI*N5H&amp;@A&amp;:$9[8=O:VIQ9*:E.W%OFRV_^^^H\MS/V)Z([5(^N?.Q]2D;_^/4@DSF^0V:8/6`_`GQURYV`HT;QTC](X^6_^BR($R_;PX,@FU]\OXX^P@&gt;@O7AT_JKJRM@UK2*K5E.KF/N86W@Z%G?Z%G?Z%E?Z%%?Z%%?Z%(OZ%\OZ%\OZ%ZOZ%:OZ%:OZ%&lt;?#LH)23ZS&gt;C6:0&amp;EIG43:)/E-2=F8YEE]C3@R]&amp;/**`%EHM34?/CCR*.Y%E`C34Q-5_**0)EH]31?JGK3&lt;)5=4_*B?A7?Q".Y!E`A95E&amp;HA!1,":-(%Q#1U&amp;D="*Y!E`AY63"*`!%HM!4?'B7Y!E]A3@Q""['N&amp;W*JBE+/2[GE?.R0)\(]4A?JJ&lt;D=4S/R`%Y(J;4YX%]$M*:U*E=AJR"4A@HB_.R00S2YX%]DM@R/"[;WBXSND/$:CDE?!S0Y4%]BM@Q-)5-D_%R0)&lt;(]$#N$)`B-4S'R`#QF!S0Y4%]"M29F/6F4'9-.$I:A?(BUZY7;X=JGM2;K8`.YY/K?A"6$Z&lt;KA6%^#+I&lt;L,JRKBOCWGD6"KIW2H8"KAN2!65,KS:5&gt;&gt;3?\RVV3^V1V^1F&gt;5'&gt;5W@5[4$UF4PO^XPN&gt;DNNNVNN.BONVWMNFUMN&amp;AP.ZX0.:D..J^.`&lt;[N0F/-R'&gt;^,+]Z@`M2T^R4@OI_`PH&gt;@PH9`@H`_/?3XL-@XUFNY._K$_J080(PU&amp;T+5S@5!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*)!!!*Q(C=\&gt;3PDBJ2&amp;-@R(]W+42VPU*$7L$WWEB?I1&amp;3M0;_!23*XZ%F;7=-LI*N5H&amp;@A&amp;:$9[8=O:VIQ9*:E.W%OFRV_^^^H\MS/V)Z([5(^N?.Q]2D;_^/4@DSF^0V:8/6`_`GQURYV`HT;QTC](X^6_^BR($R_;PX,@FU]\OXX^P@&gt;@O7AT_JKJRM@UK2*K5E.KF/N86W@Z%G?Z%G?Z%E?Z%%?Z%%?Z%(OZ%\OZ%\OZ%ZOZ%:OZ%:OZ%&lt;?#LH)23ZS&gt;C6:0&amp;EIG43:)/E-2=F8YEE]C3@R]&amp;/**`%EHM34?/CCR*.Y%E`C34Q-5_**0)EH]31?JGK3&lt;)5=4_*B?A7?Q".Y!E`A95E&amp;HA!1,":-(%Q#1U&amp;D="*Y!E`AY63"*`!%HM!4?'B7Y!E]A3@Q""['N&amp;W*JBE+/2[GE?.R0)\(]4A?JJ&lt;D=4S/R`%Y(J;4YX%]$M*:U*E=AJR"4A@HB_.R00S2YX%]DM@R/"[;WBXSND/$:CDE?!S0Y4%]BM@Q-)5-D_%R0)&lt;(]$#N$)`B-4S'R`#QF!S0Y4%]"M29F/6F4'9-.$I:A?(BUZY7;X=JGM2;K8`.YY/K?A"6$Z&lt;KA6%^#+I&lt;L,JRKBOCWGD6"KIW2H8"KAN2!65,KS:5&gt;&gt;3?\RVV3^V1V^1F&gt;5'&gt;5W@5[4$UF4PO^XPN&gt;DNNNVNN.BONVWMNFUMN&amp;AP.ZX0.:D..J^.`&lt;[N0F/-R'&gt;^,+]Z@`M2T^R4@OI_`PH&gt;@PH9`@H`_/?3XL-@XUFNY._K$_J080(PU&amp;T+5S@5!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">3.2.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
