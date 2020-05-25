@@ -1,18 +1,20 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="13008000">
+<Library LVVersion="20008000">
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(]!!!*Q(C=\&gt;8"=&gt;MQ%!8143;(8.6"2CVM#WJ",7Q,SN&amp;(N&lt;!NK!7VM#WI"&lt;8A0$%94UZ2$P%E"Y.?G@I%A7=11U&gt;M\7P%FXB^VL\`NHV=@X&lt;^39O0^N(_&lt;8NZOEH@@=^_CM?,3)VK63LD-&gt;8LS%=_]J'0@/1N&lt;XH,7^\SFJ?]Z#5P?=F,HP+5JTTF+5`Z&gt;MB$(P+1)YX*RU2DU$(![)Q3YW.YBG&gt;YBM@8'*\B':\B'2Z&gt;9HC':XC':XD=&amp;M-T0--T0-.DK%USWS(H'2\$2`-U4`-U4`/9-JKH!&gt;JE&lt;?!W#%;UC_WE?:KH?:R']T20]T20]\A=T&gt;-]T&gt;-]T?/7&lt;66[UTQ//9^BIHC+JXC+JXA-(=640-640-6DOCC?YCG)-G%:(#(+4;6$_6)]R?.8&amp;%`R&amp;%`R&amp;)^,WR/K&lt;75?GM=BZUG?Z%G?Z%E?1U4S*%`S*%`S'$;3*XG3*XG3RV320-G40!G3*D6^J-(3D;F4#J,(T\:&lt;=HN+P5FS/S,7ZIWV+7.NNFC&lt;+.&lt;GC0819TX-7!]JVO,(7N29CR6L%7,^=&lt;(1M4#R*IFV][.DX(X?V&amp;6&gt;V&amp;G&gt;V&amp;%&gt;V&amp;\N(L@_Z9\X_TVONVN=L^?Y8#ZR0J`D&gt;$L&amp;]8C-Q_%1_`U_&gt;LP&gt;WWPAG_0NB@$TP@4C`%`KH@[8`A@PRPA=PYZLD8Y!#/7SO!!!!!!</Property>
-	<Property Name="NI.Lib.Lic.Feature" Type="Str">Vision_Vision:13.0.0</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(]!!!*Q(C=\&gt;8"=&gt;MQ%!8143;(8.6"2CVM#WJ",7Q,SN&amp;(N&lt;!NK!7VM#WI"&lt;8A0$%94UZ2$P%E"Y.?G@I%A7=11U&gt;M\7P%FXB^VL\`NHV=@X&lt;^39O0^N(_&lt;8NZOEH@@=^_CM?,3)VK63LD-&gt;8LS%=_]J'0@/1N&lt;XH,7^\SFJ?]Z#5P?=F,HP+5JTTF+5`Z&gt;MB$(P+1)YX*RU2DU$(![)Q3YW.YBG&gt;YBM@8'*\B':\B'2Z&gt;9HC':XC':XD=&amp;M-T0--T0-.DK%USWS(H'2\$2`-U4`-U4`/9-JKH!&gt;JE&lt;?!W#%;UC_WE?:KH?:R']T20]T20]\A=T&gt;-]T&gt;-]T?/7&lt;66[UTQ//9^BIHC+JXC+JXA-(=640-640-6DOCC?YCG)-G%:(#(+4;6$_6)]R?.8&amp;%`R&amp;%`R&amp;)^,WR/K&lt;75?GM=BZUG?Z%G?Z%E?1U4S*%`S*%`S'$;3*XG3*XG3RV320-G40!G3*D6^J-(3D;F4#J,(T\:&lt;=HN+P5FS/S,7ZIWV+7.NNFC&lt;+.&lt;GC0819TX-7!]JVO,(7N29CR6L%7,^=&lt;(1M4#R*IFV][.DX(X?V&amp;6&gt;V&amp;G&gt;V&amp;%&gt;V&amp;\N(L@_Z9\X_TVONVN=L^?Y8#ZR0J`D&gt;$L&amp;]8C-Q_%1_`U_&gt;LP&gt;WWPAG_0NB@$TP@4C`%`KH@[8`A@PRPA=PYZLD8Y!#/7SO!!!!!!</Property>
+	<Property Name="NI.Lib.Lic.Feature" Type="Str">Vision_Vision:20.0.0</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">Vision Development Module</Property>
 	<Property Name="NI.Lib.Locked" Type="Str">CB895852955B4372656B2819DBBED87C</Property>
 	<Property Name="NI.Lib.OldestLVVersion" Type="Str">8608000</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
-	<Property Name="NI.Lib.Version" Type="Str">13.0.0.0</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
+	<Property Name="NI.Lib.Version" Type="Str">20.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="IMAQ Block Statistics" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ Block Statistics"/>
 	<Item Name="IMAQ Centroid" Type="VI" URL="../IMAQ Centroid"/>
 	<Item Name="IMAQ Extract Curves" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ Extract Curves"/>
+	<Item Name="IMAQ Extract HOG Feature Vector" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ Extract HOG Feature Vector"/>
+	<Item Name="IMAQ Extract LBP Feature Vector" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ Extract LBP Feature Vector"/>
 	<Item Name="IMAQ Fast SSIM" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ Fast SSIM"/>
 	<Item Name="IMAQ Histogram" Type="VI" URL="../IMAQ Histogram"/>
 	<Item Name="IMAQ Histograph" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ Histograph"/>
@@ -63,6 +65,7 @@
 	<Item Name="IMAQ Learn Perspective Calibration" Type="VI" URL="/&lt;vilib&gt;/vision/Calibration.llb/IMAQ Learn Perspective Calibration"/>
 	<Item Name="IMAQ Set Calibration Axis Info" Type="VI" URL="/&lt;vilib&gt;/vision/Calibration.llb/IMAQ Set Calibration Axis Info"/>
 	<Item Name="IMAQ Set Calibration Axis Info - Point" Type="VI" URL="/&lt;vilib&gt;/vision/Calibration.llb/IMAQ Set Calibration Axis Info - Point"/>
+	<Item Name="IMAQ Set Calibration Axis Info - Reference Points" Type="VI" URL="/&lt;vilib&gt;/vision/Calibration.llb/IMAQ Set Calibration Axis Info - Reference Points"/>
 	<Item Name="IMAQ Set Calibration Axis Info 2" Type="VI" URL="/&lt;vilib&gt;/vision/Calibration.llb/IMAQ Set Calibration Axis Info 2"/>
 	<Item Name="IMAQ Set Calibration Info" Type="VI" URL="/&lt;vilib&gt;/vision/Calibration.llb/IMAQ Set Calibration Info"/>
 	<Item Name="IMAQ Set Simple Calibration" Type="VI" URL="/&lt;vilib&gt;/vision/Calibration.llb/IMAQ Set Simple Calibration"/>
@@ -158,18 +161,37 @@
 	<Item Name="IMAQ Find CoordSys (Pattern) 2" Type="VI" URL="/&lt;vilib&gt;/vision/CoordSys.llb/IMAQ Find CoordSys (Pattern) 2"/>
 	<Item Name="IMAQ Find CoordSys (Pattern) 3" Type="VI" URL="/&lt;vilib&gt;/vision/CoordSys.llb/IMAQ Find CoordSys (Pattern) 3"/>
 	<Item Name="IMAQ Find CoordSys (Rect) 2" Type="VI" URL="/&lt;vilib&gt;/vision/CoordSys.llb/IMAQ Find CoordSys (Rect) 2"/>
+	<Item Name="IMAQ DL Model Classify Image" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Classify Image"/>
+	<Item Name="IMAQ DL Model Create" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Create"/>
+	<Item Name="IMAQ DL Model Create (OpenVINO)" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Create (OpenVINO)"/>
+	<Item Name="IMAQ DL Model Create (TensorFlow)" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Create (TensorFlow)"/>
+	<Item Name="IMAQ DL Model Detect Objects" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Detect Objects"/>
+	<Item Name="IMAQ DL Model Dispose" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Dispose"/>
+	<Item Name="IMAQ DL Model Get Info" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Get Info"/>
+	<Item Name="IMAQ DL Model Run" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Run"/>
+	<Item Name="IMAQ DL Model Run (TensorFlow)" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Run (TensorFlow)"/>
+	<Item Name="IMAQ DL Model Set Input" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Set Input"/>
+	<Item Name="IMAQ DL Model Set Input (Array)" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Set Input (Array)"/>
+	<Item Name="IMAQ DL Model Set Input (Image)" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Set Input (Image)"/>
+	<Item Name="IMAQ DL Model Set Input (Images)" Type="VI" URL="/&lt;vilib&gt;/vision/Deep Learning.llb/IMAQ DL Model Set Input (Images)"/>
+	<Item Name="IMAQ CreatePalette" Type="VI" URL="/&lt;vilib&gt;/vision/Display.llb/IMAQ CreatePalette"/>
 	<Item Name="IMAQ Find Circular Edge" Type="VI" URL="/&lt;vilib&gt;/vision/Edges.llb/IMAQ Find Circular Edge"/>
 	<Item Name="IMAQ Find Circular Edge 2" Type="VI" URL="/&lt;vilib&gt;/vision/Edges.llb/IMAQ Find Circular Edge 2"/>
 	<Item Name="IMAQ Find Circular Edge 3" Type="VI" URL="/&lt;vilib&gt;/vision/Edges.llb/IMAQ Find Circular Edge 3"/>
 	<Item Name="IMAQ Find Concentric Edge" Type="VI" URL="/&lt;vilib&gt;/vision/Edges.llb/IMAQ Find Concentric Edge"/>
 	<Item Name="IMAQ Find Concentric Edge 2" Type="VI" URL="/&lt;vilib&gt;/vision/Edges.llb/IMAQ Find Concentric Edge 2"/>
 	<Item Name="IMAQ Find Edge" Type="VI" URL="/&lt;vilib&gt;/vision/Edges.llb/IMAQ Find Edge"/>
+	<Item Name="IMAQ Find Edge 2" Type="VI" URL="/&lt;vilib&gt;/vision/Edges.llb/IMAQ Find Edge 2"/>
 	<Item Name="IMAQ CharPtrToString" Type="VI" URL="/&lt;vilib&gt;/vision/Extlibsp.llb/IMAQ CharPtrToString"/>
 	<Item Name="IMAQ Get Window Handle" Type="VI" URL="/&lt;vilib&gt;/vision/Extlibsp.llb/IMAQ Get Window Handle"/>
 	<Item Name="IMAQ ImageBorderOperation" Type="VI" URL="/&lt;vilib&gt;/vision/Extlibsp.llb/IMAQ ImageBorderOperation"/>
 	<Item Name="IMAQ ImageBorderSize" Type="VI" URL="/&lt;vilib&gt;/vision/Extlibsp.llb/IMAQ ImageBorderSize"/>
 	<Item Name="IMAQ MemPeek" Type="VI" URL="/&lt;vilib&gt;/vision/Extlibsp.llb/IMAQ MemPeek"/>
 	<Item Name="IMAQ Multi-Core Options" Type="VI" URL="/&lt;vilib&gt;/vision/Extlibsp.llb/IMAQ Multi-Core Options"/>
+	<Item Name="IMAQ Corner Detector" Type="VI" URL="/&lt;vilib&gt;/vision/FeatureMatching.llb/IMAQ Corner Detector"/>
+	<Item Name="IMAQ FAST Feature Point Detector" Type="VI" URL="/&lt;vilib&gt;/vision/FeatureMatching.llb/IMAQ FAST Feature Point Detector"/>
+	<Item Name="IMAQ Feature Point Descriptor" Type="VI" URL="/&lt;vilib&gt;/vision/FeatureMatching.llb/IMAQ Feature Point Descriptor"/>
+	<Item Name="IMAQ Match Feature Points" Type="VI" URL="/&lt;vilib&gt;/vision/FeatureMatching.llb/IMAQ Match Feature Points"/>
 	<Item Name="IMAQ BuildKernel" Type="VI" URL="/&lt;vilib&gt;/vision/Filters.llb/IMAQ BuildKernel"/>
 	<Item Name="IMAQ CannyEdgeDetection" Type="VI" URL="/&lt;vilib&gt;/vision/Filters.llb/IMAQ CannyEdgeDetection"/>
 	<Item Name="IMAQ Convolute" Type="VI" URL="/&lt;vilib&gt;/vision/Filters.llb/IMAQ Convolute"/>
@@ -204,6 +226,7 @@
 	<Item Name="IMAQ Grade Data Matrix Barcode ISO 16022" Type="VI" URL="/&lt;vilib&gt;/vision/Instrument.llb/IMAQ Grade Data Matrix Barcode ISO 16022"/>
 	<Item Name="IMAQ Grade DataMatrix Barcode" Type="VI" URL="/&lt;vilib&gt;/vision/Instrument.llb/IMAQ Grade DataMatrix Barcode"/>
 	<Item Name="IMAQ Read Barcode" Type="VI" URL="/&lt;vilib&gt;/vision/Instrument.llb/IMAQ Read Barcode"/>
+	<Item Name="IMAQ Read Barcode 2" Type="VI" URL="/&lt;vilib&gt;/vision/Instrument.llb/IMAQ Read Barcode 2"/>
 	<Item Name="IMAQ Read Data Matrix Barcode 2" Type="VI" URL="/&lt;vilib&gt;/vision/Instrument.llb/IMAQ Read Data Matrix Barcode 2"/>
 	<Item Name="IMAQ Read Data Matrix Barcode 3" Type="VI" URL="/&lt;vilib&gt;/vision/Instrument.llb/IMAQ Read Data Matrix Barcode 3"/>
 	<Item Name="IMAQ Read LCD" Type="VI" URL="/&lt;vilib&gt;/vision/Instrument.llb/IMAQ Read LCD"/>
@@ -230,6 +253,7 @@
 	<Item Name="IMAQ Edge Tool 3" Type="VI" URL="/&lt;vilib&gt;/vision/Measure.llb/IMAQ Edge Tool 3"/>
 	<Item Name="IMAQ Find Straight Edges 2" Type="VI" URL="/&lt;vilib&gt;/vision/Measure.llb/IMAQ Find Straight Edges 2"/>
 	<Item Name="IMAQ Find Straight Edges 3" Type="VI" URL="/&lt;vilib&gt;/vision/Measure.llb/IMAQ Find Straight Edges 3"/>
+	<Item Name="IMAQ Find Straight Edges 4" Type="VI" URL="/&lt;vilib&gt;/vision/Measure.llb/IMAQ Find Straight Edges 4"/>
 	<Item Name="IMAQ Interpolate 1D" Type="VI" URL="/&lt;vilib&gt;/vision/Measure.llb/IMAQ Interpolate 1D"/>
 	<Item Name="IMAQ Line Gauge" Type="VI" URL="/&lt;vilib&gt;/vision/Measure.llb/IMAQ Line Gauge"/>
 	<Item Name="IMAQ Peak-Valley Detector" Type="VI" URL="/&lt;vilib&gt;/vision/Measure.llb/IMAQ Peak-Valley Detector"/>
@@ -299,40 +323,51 @@
 	<Item Name="IMAQ Advanced Setup Match Geometric Pattern" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Advanced Setup Match Geometric Pattern"/>
 	<Item Name="IMAQ Advanced Setup Match Geometric Pattern 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Advanced Setup Match Geometric Pattern 2"/>
 	<Item Name="IMAQ Advanced Setup Match Pattern 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Advanced Setup Match Pattern 2"/>
+	<Item Name="IMAQ Calculate Defect Map" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Calculate Defect Map"/>
 	<Item Name="IMAQ Dispose Multiple Geometric Template" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Dispose Multiple Geometric Template"/>
 	<Item Name="IMAQ Get Geometric Features From Curves" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Get Geometric Features From Curves"/>
+	<Item Name="IMAQ Get Geometric Pattern Template Information" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Get Geometric Pattern Template Information"/>
 	<Item Name="IMAQ Get Geometric Template Features" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Get Geometric Template Features"/>
+	<Item Name="IMAQ Get Gradient Pyramid Template Information" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Get Gradient Pyramid Template Information"/>
+	<Item Name="IMAQ Get Grayscale Pyramid Template Information" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Get Grayscale Pyramid Template Information"/>
+	<Item Name="IMAQ Get Low Discrepancy Template Information" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Get Low Discrepancy Template Information"/>
 	<Item Name="IMAQ Get Template Information" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Get Template Information"/>
+	<Item Name="IMAQ Get Template Information 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Get Template Information 2"/>
 	<Item Name="IMAQ Get Template Mask" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Get Template Mask"/>
 	<Item Name="IMAQ Learn Color Pattern" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Learn Color Pattern"/>
 	<Item Name="IMAQ Learn Geometric Pattern" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Learn Geometric Pattern"/>
 	<Item Name="IMAQ Learn Geometric Pattern 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Learn Geometric Pattern 2"/>
+	<Item Name="IMAQ Learn Geometric Pattern 3" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Learn Geometric Pattern 3"/>
 	<Item Name="IMAQ Learn Multiple Geometric Patterns" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Learn Multiple Geometric Patterns"/>
-	<Item Name="IMAQ Learn Pattern 2" Type="VI" URL="/&lt;vilib&gt;/Vision/Pattern Matching.llb/IMAQ Learn Pattern 2"/>
-	<Item Name="IMAQ Learn Pattern 4" Type="VI" URL="/&lt;vilib&gt;/Vision/Pattern Matching.llb/IMAQ Learn Pattern 4"/>
+	<Item Name="IMAQ Learn Pattern 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Learn Pattern 2"/>
+	<Item Name="IMAQ Learn Pattern 4" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Learn Pattern 4"/>
+	<Item Name="IMAQ Learn Pattern 5" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Learn Pattern 5"/>
+	<Item Name="IMAQ Learn Pattern 6" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Learn Pattern 6"/>
 	<Item Name="IMAQ Match Color Pattern" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Match Color Pattern"/>
 	<Item Name="IMAQ Match Geometric Pattern" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Match Geometric Pattern"/>
 	<Item Name="IMAQ Match Geometric Pattern 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Match Geometric Pattern 2"/>
 	<Item Name="IMAQ Match Multiple Geometric Patterns" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Match Multiple Geometric Patterns"/>
-	<Item Name="IMAQ Match Pattern 2" Type="VI" URL="/&lt;vilib&gt;/Vision/Pattern Matching.llb/IMAQ Match Pattern 2"/>
-	<Item Name="IMAQ Match Pattern 3" Type="VI" URL="/&lt;vilib&gt;/Vision/Pattern Matching.llb/IMAQ Match Pattern 3"/>
-	<Item Name="IMAQ Match Pattern 4" Type="VI" URL="/&lt;vilib&gt;/Vision/Pattern Matching.llb/IMAQ Match Pattern 4"/>
+	<Item Name="IMAQ Match Pattern 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Match Pattern 2"/>
+	<Item Name="IMAQ Match Pattern 3" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Match Pattern 3"/>
+	<Item Name="IMAQ Match Pattern 4" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Match Pattern 4"/>
 	<Item Name="IMAQ Read Multiple Geometric Template" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Read Multiple Geometric Template"/>
 	<Item Name="IMAQ Refine Matches" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Refine Matches"/>
+	<Item Name="IMAQ Set Advanced Match Options" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Set Advanced Match Options"/>
+	<Item Name="IMAQ Set Preset Match Options" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Set Preset Match Options"/>
 	<Item Name="IMAQ Setup Learn Color Pattern" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Setup Learn Color Pattern"/>
 	<Item Name="IMAQ Setup Learn Geometric Pattern" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Setup Learn Geometric Pattern"/>
 	<Item Name="IMAQ Setup Learn Geometric Pattern 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Setup Learn Geometric Pattern 2"/>
-	<Item Name="IMAQ Setup Learn Pattern 2" Type="VI" URL="/&lt;vilib&gt;/Vision/Pattern Matching.llb/IMAQ Setup Learn Pattern 2"/>
+	<Item Name="IMAQ Setup Learn Pattern 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Setup Learn Pattern 2"/>
 	<Item Name="IMAQ Setup Match Color Pattern" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Setup Match Color Pattern"/>
 	<Item Name="IMAQ Setup Match Geometric Pattern" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Setup Match Geometric Pattern"/>
 	<Item Name="IMAQ Setup Match Geometric Pattern 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Setup Match Geometric Pattern 2"/>
-	<Item Name="IMAQ Setup Match Pattern 2" Type="VI" URL="/&lt;vilib&gt;/Vision/Pattern Matching.llb/IMAQ Setup Match Pattern 2"/>
+	<Item Name="IMAQ Setup Match Pattern 2" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Setup Match Pattern 2"/>
 	<Item Name="IMAQ Shape Match Tool" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Shape Match Tool"/>
 	<Item Name="IMAQ Write Multiple Geometric Template" Type="VI" URL="/&lt;vilib&gt;/vision/Pattern Matching.llb/IMAQ Write Multiple Geometric Template"/>
 	<Item Name="IMAQ Draw" Type="VI" URL="/&lt;vilib&gt;/vision/Pixel Manipulation.llb/IMAQ Draw"/>
 	<Item Name="IMAQ Draw Text" Type="VI" URL="/&lt;vilib&gt;/vision/Pixel Manipulation.llb/IMAQ Draw Text"/>
 	<Item Name="IMAQ FillImage" Type="VI" URL="../IMAQ FillImage"/>
-	<Item Name="IMAQ GetPixelLine" Type="VI" URL="/&lt;vilib&gt;/Vision/Pixel Manipulation.llb/IMAQ GetPixelLine"/>
+	<Item Name="IMAQ GetPixelLine" Type="VI" URL="/&lt;vilib&gt;/vision/Pixel Manipulation.llb/IMAQ GetPixelLine"/>
 	<Item Name="IMAQ GetPixelValue" Type="VI" URL="/&lt;vilib&gt;/vision/Pixel Manipulation.llb/IMAQ GetPixelValue"/>
 	<Item Name="IMAQ GetRowCol" Type="VI" URL="/&lt;vilib&gt;/vision/Pixel Manipulation.llb/IMAQ GetRowCol"/>
 	<Item Name="IMAQ SetPixelLine" Type="VI" URL="/&lt;vilib&gt;/vision/Pixel Manipulation.llb/IMAQ SetPixelLine"/>
@@ -342,7 +377,11 @@
 	<Item Name="IMAQ AutoMThreshold" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ AutoMThreshold"/>
 	<Item Name="IMAQ AutoMThreshold 2" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ AutoMThreshold 2"/>
 	<Item Name="IMAQ BCGLookup" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ BCGLookup"/>
+	<Item Name="IMAQ Compute Average Image" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ Compute Average Image"/>
+	<Item Name="IMAQ Compute Median Image" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ Compute Median Image"/>
 	<Item Name="IMAQ Equalize" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ Equalize"/>
+	<Item Name="IMAQ Estimate Flat Field Model" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ Estimate Flat Field Model"/>
+	<Item Name="IMAQ Flat Field Correction" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ Flat Field Correction"/>
 	<Item Name="IMAQ Inverse" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ Inverse"/>
 	<Item Name="IMAQ Label" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ Label"/>
 	<Item Name="IMAQ Local Threshold" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ Local Threshold"/>
@@ -355,9 +394,9 @@
 	<Item Name="IMAQ Watershed Transform" Type="VI" URL="/&lt;vilib&gt;/vision/Process.llb/IMAQ Watershed Transform"/>
 	<Item Name="IMAQ LabelToROI" Type="VI" URL="/&lt;vilib&gt;/vision/ROI Tools.llb/IMAQ LabelToROI"/>
 	<Item Name="IMAQ MaskToROI" Type="VI" URL="/&lt;vilib&gt;/vision/ROI Tools.llb/IMAQ MaskToROI"/>
-	<Item Name="IMAQ ROIToMask" Type="VI" URL="/&lt;vilib&gt;/Vision/ROI Tools.llb/IMAQ ROIToMask"/>
+	<Item Name="IMAQ ROIToMask" Type="VI" URL="/&lt;vilib&gt;/vision/ROI Tools.llb/IMAQ ROIToMask"/>
 	<Item Name="IMAQ ROIToMask 2" Type="VI" URL="../IMAQ ROIToMask 2"/>
-	<Item Name="IMAQ TransformROI" Type="VI" URL="/&lt;vilib&gt;/Vision/ROI Tools.llb/IMAQ TransformROI"/>
+	<Item Name="IMAQ TransformROI" Type="VI" URL="/&lt;vilib&gt;/vision/ROI Tools.llb/IMAQ TransformROI"/>
 	<Item Name="IMAQ Detect Circles" Type="VI" URL="/&lt;vilib&gt;/vision/Shape Detection.llb/IMAQ Detect Circles"/>
 	<Item Name="IMAQ Detect Ellipses" Type="VI" URL="/&lt;vilib&gt;/vision/Shape Detection.llb/IMAQ Detect Ellipses"/>
 	<Item Name="IMAQ Detect Lines" Type="VI" URL="/&lt;vilib&gt;/vision/Shape Detection.llb/IMAQ Detect Lines"/>
@@ -384,4 +423,4 @@
 	<Item Name="IMAQ Extract Texture Feature" Type="VI" URL="/&lt;vilib&gt;/vision/Texture.llb/IMAQ Extract Texture Feature"/>
 	<Item Name="IMAQ Extract Wavelet Bands" Type="VI" URL="/&lt;vilib&gt;/vision/Texture.llb/IMAQ Extract Wavelet Bands"/>
 </Library>
-<?sig D453FF4547ADF8A0A1A0D11F62624C56?>
+<?sig 9620DFE172C6BABFAD142DAF5A4259D2?>
