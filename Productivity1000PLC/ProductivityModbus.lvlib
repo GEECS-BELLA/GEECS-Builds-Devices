@@ -260,6 +260,278 @@
 		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">100016</Property>
 	</Item>
+	<Item Name="DI17" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100017</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100017</Property>
+	</Item>
+	<Item Name="DI18" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100018</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100018</Property>
+	</Item>
+	<Item Name="DI19" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100019</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100019</Property>
+	</Item>
+	<Item Name="DI20" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100020</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100020</Property>
+	</Item>
+	<Item Name="DI21" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100021</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100021</Property>
+	</Item>
+	<Item Name="DI22" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100022</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100022</Property>
+	</Item>
+	<Item Name="DI23" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100023</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100023</Property>
+	</Item>
+	<Item Name="DI24" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100024</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100024</Property>
+	</Item>
+	<Item Name="DI25" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100025</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100025</Property>
+	</Item>
+	<Item Name="DI26" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100026</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100026</Property>
+	</Item>
+	<Item Name="DI27" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100027</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100027</Property>
+	</Item>
+	<Item Name="DI28" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100028</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100028</Property>
+	</Item>
+	<Item Name="DI29" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100029</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100029</Property>
+	</Item>
+	<Item Name="DI30" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100030</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100030</Property>
+	</Item>
+	<Item Name="DI31" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100031</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100031</Property>
+	</Item>
+	<Item Name="DI32" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read only</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\100032</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">100032</Property>
+	</Item>
 	<Item Name="DO1" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
@@ -499,6 +771,261 @@
 		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
 		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">000015</Property>
+	</Item>
+	<Item Name="DO16" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000016</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000016</Property>
+	</Item>
+	<Item Name="DO17" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000017</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000017</Property>
+	</Item>
+	<Item Name="DO18" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000018</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000018</Property>
+	</Item>
+	<Item Name="DO19" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000019</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000019</Property>
+	</Item>
+	<Item Name="DO20" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000020</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000020</Property>
+	</Item>
+	<Item Name="DO21" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000021</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000021</Property>
+	</Item>
+	<Item Name="DO22" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000022</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000022</Property>
+	</Item>
+	<Item Name="DO23" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000023</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000023</Property>
+	</Item>
+	<Item Name="DO24" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000024</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000024</Property>
+	</Item>
+	<Item Name="DO25" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000025</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000025</Property>
+	</Item>
+	<Item Name="DO26" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000026</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000026</Property>
+	</Item>
+	<Item Name="DO27" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000027</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000027</Property>
+	</Item>
+	<Item Name="DO28" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000028</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000028</Property>
+	</Item>
+	<Item Name="DO29" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000029</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000029</Property>
+	</Item>
+	<Item Name="DO30" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+		<Property Name="Network:ProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\000030</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Productivity1000PLC.lvproj/My Computer/ProductivityModbus.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!#!!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ProductivityModbus.lvlib\Modbus1\</Property>
+		<Property Name="varSourceProjectSubPath" Type="Str">000030</Property>
 	</Item>
 	<Item Name="Modbus1" Type="IO Server">
 		<Property Name="atrb" Type="Str">A!-!!!Q1!!!8!!!!"B!!!!=!!!""!'1!:!"S!'5!=Q"T!!-!"1!!!!!!!!$Q0Q91!!!)!!!!1A"B!(5!:!"3!'%!&gt;!"F!!-!"A!!!!!!!-$#1!91!!!(!!!!2!"B!(1!91"#!'E!&gt;!!$!!5!!!!!!!!!)%!'%!!!#1!!!%E!5!""!'1!:!"S!'5!=Q"T!!91!!!.!!!!-1!Z!$)!,A!R!$9!/!!O!$=!,A!S!$%!.1!'%!!!$A!!!%E!5!""!'1!:!"S!'5!=Q"T!%%!&lt;!"J!'%!=Q!'%!!!$1!!!$%!/1!S!#Y!-1!W!$A!,A!X!#Y!-A!R!$5!"B!!!!A!!!"-!&amp;-!6Q"'!'E!=A"T!(1!!A!!!!!'%!!!"Q!!!%U!91"Y!%-!&lt;Q"J!'Q!!Q!&amp;!!!!!!!!Y*Z!"B!!!!M!!!".!'%!?!"%!'E!=Q"D!()!:1"U!'5!!Q!&amp;!!!!!!!!1*^!"B!!!!I!!!".!'%!?!")!']!&lt;!"E!'E!&lt;A"H!!-!"1!!!!!!!-"?1!91!!!)!!!!41"B!(A!31"O!(!!&gt;1"U!!-!"1!!!!!!!%"@1!91!!!&amp;!!!!41"P!'1!:1"M!!91!!!0!!!!41"P!'1!9A"V!(-!)!"&amp;!(1!;!"F!()!&lt;A"F!(1!"B!!!!1!!!"/!'%!&lt;1"F!!91!!!(!!!!41"P!'1!9A"V!(-!-1!'%!!!"A!!!&amp;!!91"S!'E!&gt;!"Z!!91!!!%!!!!&lt;A"P!'Y!:1!'%!!!"Q!!!&amp;!!;!"P!'Y!:1"/!']!"B!!!!!!!!!'%!!!#!!!!&amp;!!&lt;Q"M!'Q!5A"B!(1!:1!$!!!!!!!!!!!!]$]'%!!!#!!!!&amp;!!=A"J!']!=A"J!(1!?1!$!!5!!!!!!!!!)%!'%!!!"Q!!!&amp;)!:1"U!()!;1"F!(-!!Q!&amp;!!!!!!!!!""!"B!!!!I!!!"4!'5!=A"J!'%!&lt;!"1!']!=A"U!!91!!!%!!!!1Q"0!%U!-1!'%!!!"1!!!&amp;-!;Q"J!(!!=Q!$!!5!!!!!!!!!&amp;%!'%!!!"Q!!!&amp;-!&gt;!"P!(!!1A"J!(1!"B!!!!%!!!!R!!91!!!(!!!!6!"J!'U!:1"P!(5!&gt;!!$!!9!!!!!!!"!@U!'%!!!#1!!!&amp;1!=A"B!'Y!=Q".!']!:!"F!!91!!!$!!!!5A"5!&amp;5!"B!!!!=!!!"6!(-!:1"'!%-!-1!W!!)!!!!!</Property>
