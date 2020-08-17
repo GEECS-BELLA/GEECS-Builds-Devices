@@ -15,6 +15,8 @@
 		<Item Name="baseanly" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="protected" Type="Folder">
+				<Item Name="IIR Cascade Filter (DBL).vi" Type="VI" URL="../IIR Cascade Filter (DBL).vi"/>
+				<Item Name="Mean (DBL).vi" Type="VI" URL="../Mean (DBL).vi"/>
 				<Item Name="Scale 1D.vi" Type="VI" URL="../Scale 1D.vi"/>
 			</Item>
 		</Item>
@@ -24,11 +26,17 @@
 			</Item>
 		</Item>
 		<Item Name="3filter" Type="Folder">
-			<Item Name="protected" Type="Folder"/>
+			<Item Name="protected" Type="Folder">
+				<Item Name="Butterworth Coefficients.vi" Type="VI" URL="../Butterworth Coefficients.vi"/>
+				<Item Name="Butterworth Filter (DBL).vi" Type="VI" URL="../Butterworth Filter (DBL).vi"/>
+				<Item Name="Filter Passband Type.ctl" Type="VI" URL="../Filter Passband Type.ctl"/>
+				<Item Name="Filter Structure Type.ctl" Type="VI" URL="../Filter Structure Type.ctl"/>
+				<Item Name="Select Filter Structure.vi" Type="VI" URL="../Select Filter Structure.vi"/>
+			</Item>
 		</Item>
 		<Item Name="7linalg-baseVIs" Type="Folder">
 			<Item Name="protected" Type="Folder"/>
 		</Item>
 	</Item>
 </Library>
-<?sig CE9DFFA5A748014E087D6AA0D342929F?>
+<?sig C09F00998194B82BFF34EB90AA3220BE?>
