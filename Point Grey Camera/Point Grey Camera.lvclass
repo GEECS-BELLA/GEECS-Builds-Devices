@@ -232,11 +232,11 @@
 	<Item Name="online image analysis.vi" Type="VI" URL="../online image analysis.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(:!!!!%Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!^!#1!*1W6O&gt;(*P;729!!^!#1!*1W6O&gt;(*P;72:!"&amp;!#1!+476B&lt;E.P&gt;7ZU=Q!!#U!*!!6'6UB.?!!,1!E!"5:83%VZ!!^!#1!*47&amp;Y1W^V&lt;H2T!!^!#1!*-GZE&lt;7^N6T"Y!!^!#1!*-GZE&lt;7^N6T"Z!"&amp;!#1!,-GZE&lt;7^N6T"Y.$5!%5!*!!MS&lt;G2N&lt;WV8-(EU.1"7!0%!!!!!!!!!!2F*&lt;7&amp;H:3"B&lt;G&amp;M?8.Z=S"S:8.V&lt;(1O9X2M!$2!5!!+!!5!"A!(!!A!#1!+!!M!$!!.!!Y637VB:W5A17ZB&lt;(FT;8-A5G6T&gt;7RU!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!-E"Q!"Y!!"M:5'^J&lt;H1A2X*F?3"$97VF=G%O&lt;(:D&lt;'&amp;T=Q!.2G&amp;L:5.B&lt;76S93"J&lt;A"5!0!!$!!$!!1!"!!0!!1!"!!%!!1!%!!%!!1!%1-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!#!!!!!!"!")!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">262400</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="prepare image for 2nd mom analysis.vi" Type="VI" URL="../prepare image for 2nd mom analysis.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)/!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;E!]1!!!!!!!!!"$EF.16%A37VB:W5O9X2M!%*!=!!&gt;#5F.16&amp;*&lt;7&amp;H:1!!#5F.16&amp;*&lt;7&amp;H:3!!A!!!!!!"!!1!!!!"!!!!!!!!$%*()(.V9C"J&lt;7&amp;H:1!!)!!X`````Q!&amp;)!#!!!!!!!%!"!!!!!%!!!!!!!!!!!"F!0%!!!!!!!!!!1Z*45&amp;2)%FN97&gt;F,G.U&lt;!"/1(!!(1F*45&amp;237VB:W5!!1!'#5F.16&amp;*&lt;7&amp;H:3!!A!!!!!!"!!1!!!!"!!!!!!!!&amp;X2I=G6T;'^M:'6E)':P=C!S&lt;G1A&lt;7^N!$2!=!!?!!!&lt;'6"P;7ZU)%&gt;S:8EA1W&amp;N:8*B,GRW9WRB=X-!$E:B;W6$97VF=G%A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$*!=!!?!!!&lt;'6"P;7ZU)%&gt;S:8EA1W&amp;N:8*B,GRW9WRB=X-!$5:B;W6$97VF=G%A;7Y!91$Q!!Q!!Q!%!!5!"Q!%!!A!"!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!A!!!U!!!!!!!Q!!!!!!!!!!!%!#Q!!!!!</Property>
