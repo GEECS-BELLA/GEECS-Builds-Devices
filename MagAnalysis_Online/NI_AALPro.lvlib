@@ -1,15 +1,15 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="20008000">
+<Library LVVersion="13008000">
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(]!!!*Q(C=\&gt;8"&lt;2MR%!813:!!O;K$1#V-#WJ",5Q,OPKI&amp;K9&amp;N;!7JA7VI";=JQVBZ"4F%#-ZG/O26X_ZZ$/87%&gt;M\6P%FXB^VL\_NHV=@X&lt;^39O0^N(_&lt;8NZOEH@@=^_CM?,3)VK63LD-&gt;8LS%=_]J'0@/1N&lt;XH,7^\SFJ?]Z#5P?=F,HP+5JTTF+5`Z&gt;MB$(P+1)YX*RU2DU$(![)Q3YW.YBG&gt;YBM@8'*\B':\B'2Z&gt;9HC':XC':XD=&amp;M-T0--T0-.DK%USWS(H'2\$2`-U4`-U4`/9-JKH!&gt;JE&lt;?!W#%;UC_WE?:KH?:R']T20]T20]\A=T&gt;-]T&gt;-]T?/7&lt;66[UTQ//9^BIHC+JXC+JXA-(=640-640-6DOCC?YCG)-G%:(#(+4;6$_6)]R?.8&amp;%`R&amp;%`R&amp;)^,WR/K&lt;75?GM=BZUG?Z%G?Z%E?1U4S*%`S*%`S'$;3*XG3*XG3RV320-G40!G3*D6^J-(3D;F4#J,(T\:&lt;=HN+P5FS/S,7ZIWV+7.NNFC&lt;+.&lt;GC0819TX-7!]JVO,(7N29CR6L%7,^=&lt;(1M4#R*IFV][.DX(X?V&amp;6&gt;V&amp;G&gt;V&amp;%&gt;V&amp;\N(L@_Z9\X_TVONVN=L^?Y8#ZR0J`D&gt;$L&amp;]8C-Q_%1_`U_&gt;LP&gt;WWPAO_0NB@$TP@4C`%`KH@[8`A@PRPA=PYZLD8Y![_ML^!!!!!!</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(]!!!*Q(C=\&gt;8"&lt;2MR%!813:!!O;K$1#V-#WJ",5Q,OPKI&amp;K9&amp;N;!7JA7VI";=JQVBZ"4F%#-ZG/O26X_ZZ$/87%&gt;M\6P%FXB^VL\_NHV=@X&lt;^39O0^N(_&lt;8NZOEH@@=^_CM?,3)VK63LD-&gt;8LS%=_]J'0@/1N&lt;XH,7^\SFJ?]Z#5P?=F,HP+5JTTF+5`Z&gt;MB$(P+1)YX*RU2DU$(![)Q3YW.YBG&gt;YBM@8'*\B':\B'2Z&gt;9HC':XC':XD=&amp;M-T0--T0-.DK%USWS(H'2\$2`-U4`-U4`/9-JKH!&gt;JE&lt;?!W#%;UC_WE?:KH?:R']T20]T20]\A=T&gt;-]T&gt;-]T?/7&lt;66[UTQ//9^BIHC+JXC+JXA-(=640-640-6DOCC?YCG)-G%:(#(+4;6$_6)]R?.8&amp;%`R&amp;%`R&amp;)^,WR/K&lt;75?GM=BZUG?Z%G?Z%E?1U4S*%`S*%`S'$;3*XG3*XG3RV320-G40!G3*D6^J-(3D;F4#J,(T\:&lt;=HN+P5FS/S,7ZIWV+7.NNFC&lt;+.&lt;GC0819TX-7!]JVO,(7N29CR6L%7,^=&lt;(1M4#R*IFV][.DX(X?V&amp;6&gt;V&amp;G&gt;V&amp;%&gt;V&amp;\N(L@_Z9\X_TVONVN=L^?Y8#ZR0J`D&gt;$L&amp;]8C-Q_%1_`U_&gt;LP&gt;WWPAO_0NB@$TP@4C`%`KH@[8`A@PRPA=PYZLD8Y![_ML^!!!!!!</Property>
 	<Property Name="NI.Lib.Lic.Feature" Type="Str">LabVIEW_Full:8.0.0</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">Professional Package Advanced Analysis</Property>
-	<Property Name="NI.Lib.Locked" Type="Str">032F103390A46FF3152F796C71BA42F1</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
-	<Property Name="NI.Lib.Version" Type="Str">14.0.0.0</Property>
+	<Property Name="NI.Lib.Locked" Type="Str">3D8C2E1A1AB47FBF4565F1C1B7D6D26A</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
+	<Property Name="NI.Lib.Version" Type="Str">12.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Property Name="Serialized ACL" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
+	<Property Name="Serialized ACL" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Item Name="menus" Type="Folder">
 		<Item Name="Categories" Type="Folder">
 			<Item Name="ananova.mnu" Type="Document" URL="../ananova.mnu"/>
@@ -318,25 +318,27 @@
 			<Item Name="Spline Interpolation.vi" Type="VI" URL="../Spline Interpolation.vi"/>
 		</Item>
 		<Item Name="6fits" Type="Folder">
-			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="obsolete" Type="Folder">
-				<Item Name="get new coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/get new coefficients.vi"/>
-				<Item Name="Lev-Mar abx.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Lev-Mar abx.vi"/>
-				<Item Name="Lev-Mar xx.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Lev-Mar xx.vi"/>
 				<Item Name="Nonlinear Lev-Mar Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Nonlinear Lev-Mar Fit.vi"/>
 				<Item Name="partial derivative.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/partial derivative.vi"/>
 				<Item Name="Target Fnc &amp; Deriv NonLin.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Target Fnc &amp; Deriv NonLin.vi"/>
+				<Item Name="get new coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/get new coefficients.vi"/>
+				<Item Name="Lev-Mar abx.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Lev-Mar abx.vi"/>
+				<Item Name="Lev-Mar xx.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Lev-Mar xx.vi"/>
 			</Item>
 			<Item Name="protected" Type="Folder">
-				<Item Name="1D B-Spline Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/1D B-Spline Fit.vi"/>
-				<Item Name="B-Spline Fit_nD.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/B-Spline Fit_nD.vi"/>
+				<Item Name="Gaussian Peak Fit (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit (Bisquare).vi"/>
+				<Item Name="Gaussian Peak Fit (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit (LAR).vi"/>
+				<Item Name="Gaussian Peak Fit (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit (LS).vi"/>
+				<Item Name="Gaussian Peak Fit Coefficients (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit Coefficients (Bisquare).vi"/>
+				<Item Name="Gaussian Peak Fit Coefficients (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit Coefficients (LAR).vi"/>
+				<Item Name="Gaussian Peak Fit Coefficients (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit Coefficients (LS).vi"/>
+				<Item Name="General LS Linear Fit (obs).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General LS Linear Fit (obs).vi"/>
 				<Item Name="Confidence Interval (Exp).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Confidence Interval (Exp).vi"/>
 				<Item Name="Confidence Interval (Gauss).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Confidence Interval (Gauss).vi"/>
 				<Item Name="Confidence Interval (Linear).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Confidence Interval (Linear).vi"/>
 				<Item Name="Confidence Interval (Log).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Confidence Interval (Log).vi"/>
-				<Item Name="Confidence Interval (Polynomial).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Confidence Interval (Polynomial).vi"/>
 				<Item Name="Confidence Interval (Power).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Confidence Interval (Power).vi"/>
-				<Item Name="Curve Fitting Criteria.ctl" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Curve Fitting Criteria.ctl"/>
 				<Item Name="Exponential Fit (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Exponential Fit (Bisquare).vi"/>
 				<Item Name="Exponential Fit (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Exponential Fit (LAR).vi"/>
 				<Item Name="Exponential Fit (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Exponential Fit (LS).vi"/>
@@ -344,23 +346,6 @@
 				<Item Name="Exponential Fit Coefficients (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Exponential Fit Coefficients (Bisquare).vi"/>
 				<Item Name="Exponential Fit Coefficients (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Exponential Fit Coefficients (LAR).vi"/>
 				<Item Name="Exponential Fit Coefficients (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Exponential Fit Coefficients (LS).vi"/>
-				<Item Name="Gaussian Peak Fit (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit (Bisquare).vi"/>
-				<Item Name="Gaussian Peak Fit (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit (LAR).vi"/>
-				<Item Name="Gaussian Peak Fit (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit (LS).vi"/>
-				<Item Name="Gaussian Peak Fit Coefficients (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit Coefficients (Bisquare).vi"/>
-				<Item Name="Gaussian Peak Fit Coefficients (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit Coefficients (LAR).vi"/>
-				<Item Name="Gaussian Peak Fit Coefficients (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit Coefficients (LS).vi"/>
-				<Item Name="General Linear Fit (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Linear Fit (Bisquare).vi"/>
-				<Item Name="General Linear Fit (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Linear Fit (LAR).vi"/>
-				<Item Name="General Linear Fit Algorithm.ctl" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Linear Fit Algorithm.ctl"/>
-				<Item Name="General LS Linear Fit (obs).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General LS Linear Fit (obs).vi"/>
-				<Item Name="General LS Linear Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General LS Linear Fit.vi"/>
-				<Item Name="General Polynomial Fit (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit (Bisquare).vi"/>
-				<Item Name="General Polynomial Fit (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit (LAR).vi"/>
-				<Item Name="General Polynomial Fit (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit (LS).vi"/>
-				<Item Name="General Polynomial Fit Coefficients (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit Coefficients (Bisquare).vi"/>
-				<Item Name="General Polynomial Fit Coefficients (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit Coefficients (LAR).vi"/>
-				<Item Name="General Polynomial Fit Coefficients (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit Coefficients (LS).vi"/>
 				<Item Name="Linear Fit (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Linear Fit (Bisquare).vi"/>
 				<Item Name="Linear Fit (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Linear Fit (LAR).vi"/>
 				<Item Name="Linear Fit (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Linear Fit (LS).vi"/>
@@ -373,7 +358,6 @@
 				<Item Name="Logarithm Fit Coefficients (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Logarithm Fit Coefficients (Bisquare).vi"/>
 				<Item Name="Logarithm Fit Coefficients (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Logarithm Fit Coefficients (LAR).vi"/>
 				<Item Name="Logarithm Fit Coefficients (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Logarithm Fit Coefficients (LS).vi"/>
-				<Item Name="nD B-Spline Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/nD B-Spline Fit.vi"/>
 				<Item Name="Power Fit (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Power Fit (Bisquare).vi"/>
 				<Item Name="Power Fit (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Power Fit (LAR).vi"/>
 				<Item Name="Power Fit (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Power Fit (LS).vi"/>
@@ -384,39 +368,52 @@
 				<Item Name="Prediction Interval (Gauss).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Prediction Interval (Gauss).vi"/>
 				<Item Name="Prediction Interval (Linear).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Prediction Interval (Linear).vi"/>
 				<Item Name="Prediction Interval (Log).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Prediction Interval (Log).vi"/>
-				<Item Name="Prediction Interval (Polynomial).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Prediction Interval (Polynomial).vi"/>
 				<Item Name="Prediction Interval (Power).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Prediction Interval (Power).vi"/>
 				<Item Name="Remove Outliers (Index).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Remove Outliers (Index).vi"/>
 				<Item Name="Remove Outliers (Range).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Remove Outliers (Range).vi"/>
-				<Item Name="Unconstrained Exponential Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Unconstrained Exponential Fit.vi"/>
+				<Item Name="B-Spline Fit_nD.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/B-Spline Fit_nD.vi"/>
+				<Item Name="Confidence Interval (Polynomial).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Confidence Interval (Polynomial).vi"/>
+				<Item Name="Prediction Interval (Polynomial).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Prediction Interval (Polynomial).vi"/>
+				<Item Name="General Polynomial Fit Coefficients (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit Coefficients (Bisquare).vi"/>
+				<Item Name="General Polynomial Fit Coefficients (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit Coefficients (LAR).vi"/>
+				<Item Name="General Polynomial Fit Coefficients (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit Coefficients (LS).vi"/>
+				<Item Name="General LS Linear Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General LS Linear Fit.vi"/>
 				<Item Name="Unconstrained Gaussian Peak Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Unconstrained Gaussian Peak Fit.vi"/>
 				<Item Name="Unconstrained Linear Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Unconstrained Linear Fit.vi"/>
+				<Item Name="General Linear Fit (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Linear Fit (Bisquare).vi"/>
 				<Item Name="Unconstrained Logarithm Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Unconstrained Logarithm Fit.vi"/>
 				<Item Name="Unconstrained Power Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Unconstrained Power Fit.vi"/>
+				<Item Name="General Linear Fit (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Linear Fit (LAR).vi"/>
+				<Item Name="General Polynomial Fit (LS).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit (LS).vi"/>
+				<Item Name="Unconstrained Exponential Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Unconstrained Exponential Fit.vi"/>
+				<Item Name="General Polynomial Fit (Bisquare).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit (Bisquare).vi"/>
+				<Item Name="General Polynomial Fit (LAR).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit (LAR).vi"/>
+				<Item Name="Curve Fitting Criteria.ctl" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Curve Fitting Criteria.ctl"/>
+				<Item Name="General Linear Fit Algorithm.ctl" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Linear Fit Algorithm.ctl"/>
 			</Item>
-			<Item Name="B-Spline Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/B-Spline Fit.vi"/>
 			<Item Name="Cubic Spline Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Cubic Spline Fit.vi"/>
 			<Item Name="Exponential Fit Coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Exponential Fit Coefficients.vi"/>
 			<Item Name="Exponential Fit Intervals.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Exponential Fit Intervals.vi"/>
-			<Item Name="Exponential Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Exponential Fit.vi"/>
 			<Item Name="Gaussian Peak Fit Coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit Coefficients.vi"/>
 			<Item Name="Gaussian Peak Fit Intervals.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit Intervals.vi"/>
-			<Item Name="Gaussian Peak Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit.vi"/>
-			<Item Name="General Linear Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Linear Fit.vi"/>
-			<Item Name="General Polynomial Fit Coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit Coefficients.vi"/>
-			<Item Name="General Polynomial Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit.vi"/>
 			<Item Name="Goodness of Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Goodness of Fit.vi"/>
 			<Item Name="Linear Fit Coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Linear Fit Coefficients.vi"/>
 			<Item Name="Linear Fit Intervals.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Linear Fit Intervals.vi"/>
-			<Item Name="Linear Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Linear Fit.vi"/>
 			<Item Name="Logarithm Fit Coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Logarithm Fit Coefficients.vi"/>
 			<Item Name="Logarithm Fit Intervals.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Logarithm Fit Intervals.vi"/>
-			<Item Name="Logarithm Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Logarithm Fit.vi"/>
-			<Item Name="Polynomial Fit Intervals.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Polynomial Fit Intervals.vi"/>
 			<Item Name="Power Fit Coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Power Fit Coefficients.vi"/>
 			<Item Name="Power Fit Intervals.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Power Fit Intervals.vi"/>
-			<Item Name="Power Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Power Fit.vi"/>
 			<Item Name="Remove Outliers.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Remove Outliers.vi"/>
+			<Item Name="B-Spline Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/B-Spline Fit.vi"/>
+			<Item Name="Polynomial Fit Intervals.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Polynomial Fit Intervals.vi"/>
+			<Item Name="General Polynomial Fit Coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit Coefficients.vi"/>
+			<Item Name="Logarithm Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Logarithm Fit.vi"/>
+			<Item Name="Gaussian Peak Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Gaussian Peak Fit.vi"/>
+			<Item Name="Linear Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Linear Fit.vi"/>
+			<Item Name="General Linear Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Linear Fit.vi"/>
+			<Item Name="Power Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Power Fit.vi"/>
+			<Item Name="Exponential Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/Exponential Fit.vi"/>
+			<Item Name="General Polynomial Fit.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/6fits.llb/General Polynomial Fit.vi"/>
 		</Item>
 		<Item Name="7linalg" Type="Folder">
 			<Item Name="protected" Type="Folder">
@@ -835,4 +832,4 @@
 		</Item>
 	</Item>
 </Library>
-<?sig BEAEA9BDD128A5487495966709A9DA49?>
+<?sig 1D8C3A6B2CD151F979E59FA0B4BD70E6?>
