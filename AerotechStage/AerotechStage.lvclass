@@ -38,7 +38,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
 	</Item>
-	<Item Name="Initialize.vi" Type="VI" URL="../AerotechStage/Initialize.vi">
+	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;6!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````QZO:8=A9W^N&lt;7&amp;O:#BT+1!!&amp;%!Q`````QJ%:8:J9W6/97VF!!!W1(!!(A!!&amp;R6":8*P&gt;'6D;&amp;.U97&gt;F,GRW9WRB=X-!&amp;5BF?'&amp;Q&lt;W2$&lt;WZU=G^M&lt;'6S)'^V&gt;!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!W1(!!(A!!&amp;R6":8*P&gt;'6D;&amp;.U97&gt;F,GRW9WRB=X-!&amp;%BF?'&amp;Q&lt;W2$&lt;WZU=G^M&lt;'6S)'FO!!"5!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!(!!5!#1-!!(A!!!E!!!!*!!!!$1I!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!%+!!!!EA!!!!!"!!I!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">33554432</Property>
@@ -47,7 +47,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 	</Item>
-	<Item Name="Acquire.vi" Type="VI" URL="../AerotechStage/Acquire.vi">
+	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&amp;!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!Q`````QNO:8=A9W^N&lt;7&amp;O:!!11$$`````"U.P&lt;7VB&lt;G1!$%!Q`````Q."=G=!%E"!!!(`````!!9%18*H=Q!!,!$R!!!!!!!!!!%.2(*J&gt;G6S48.H,G.U&lt;!!71&amp;!!!A!&amp;!!=(48.H)'^V&gt;!!O1(!!(A!!&amp;R6":8*P&gt;'6D;&amp;.U97&gt;F,GRW9WRB=X-!$5&amp;F=G^U:7.I5X2B:W5!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,!$R!!!!!!!!!!%.2(*J&gt;G6S48.H,G.U&lt;!!71&amp;!!!A!&amp;!!='48.H)'FO!!"5!0!!$!!$!!1!#!!*!!I!#A!+!!I!#Q!+!!Q!#1-!!(A!!!E!!!!*!!!!$1I!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!EA!!!!!"!!U!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">8192</Property>
@@ -56,7 +56,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 	</Item>
-	<Item Name="Close.vi" Type="VI" URL="../AerotechStage/Close.vi">
+	<Item Name="Close.vi" Type="VI" URL="../Close.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'L!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!Q`````QNO:8=A9W^N&lt;7&amp;O:!!11$$`````"U.P&lt;7VB&lt;G1!$%!Q`````Q."=G=!%E"!!!(`````!!9%18*H=Q!!,!$R!!!!!!!!!!%.2(*J&gt;G6S48.H,G.U&lt;!!71&amp;!!!A!&amp;!!=(48.H)'^V&gt;!!M1(!!(A!!&amp;R6":8*P&gt;'6D;&amp;.U97&gt;F,GRW9WRB=X-!#UBF?'&amp;Q&lt;W1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Q!]1!!!!!!!!!"$52S;8:F=EVT:SZD&gt;'Q!&amp;E"1!!)!"1!("EVT:S"J&lt;A!!+%"Q!"Y!!"=6176S&lt;X2F9WB4&gt;'&amp;H:3ZM&gt;G.M98.T!!&gt;):8BB='^E!&amp;1!]!!-!!-!"!!)!!E!#A!+!!I!#A!,!!I!$!!.!Q!!?!!!$1A!!!E!!!!.#A!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!I!!!#3!!!!!!%!$A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">8192</Property>
@@ -65,7 +65,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
 	</Item>
-	<Item Name="Save.vi" Type="VI" URL="../AerotechStage/Save.vi">
+	<Item Name="Save.vi" Type="VI" URL="../Save.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(&lt;!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!S`````Q21982I!!!11$$`````"U.P&lt;7VB&lt;G1!$%!Q`````Q."=G=!%E"!!!(`````!!9%18*H=Q!!,!$R!!!!!!!!!!%.2(*J&gt;G6S48.H,G.U&lt;!!71&amp;!!!A!&amp;!!=(48.H)'^V&gt;!!]1(!!(A!!&amp;R6":8*P&gt;'6D;&amp;.U97&gt;F,GRW9WRB=X-!'E:B;W61=G6T=X6S:5.P&lt;H2S&lt;WRM:8)A&lt;X6U!!!51$$`````#WZF&gt;S"D&lt;WVN97ZE!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Q!]1!!!!!!!!!"$52S;8:F=EVT:SZD&gt;'Q!&amp;E"1!!)!"1!("EVT:S"J&lt;A!!/E"Q!"Y!!"=6176S&lt;X2F9WB4&gt;'&amp;H:3ZM&gt;G.M98.T!"F'97NF5(*F=X.V=G6$&lt;WZU=G^M&lt;'6S)'FO!&amp;1!]!!-!!-!"!!)!!E!#A!,!!M!#Q!-!!I!$1!/!A!!?!!!$1A!!!E!!!!.#A!!D1M!!!U*!!!!!!!!!!!!!!!!!!!)!!!##!!!!!A!!!#1!!!!!!%!$Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">8192</Property>
@@ -74,7 +74,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
 	</Item>
-	<Item Name="Configure.vi" Type="VI" URL="../AerotechStage/Configure.vi">
+	<Item Name="Configure.vi" Type="VI" URL="../Configure.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&amp;!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;%!Q`````QNO:8=A9W^N&lt;7&amp;O:!!11$$`````"U.P&lt;7VB&lt;G1!$%!Q`````Q."=G=!%E"!!!(`````!!9%18*H=Q!!,!$R!!!!!!!!!!%.2(*J&gt;G6S48.H,G.U&lt;!!71&amp;!!!A!&amp;!!=(48.H)'^V&gt;!!O1(!!(A!!&amp;R6":8*P&gt;'6D;&amp;.U97&gt;F,GRW9WRB=X-!$5&amp;F=G^U:7.I5X2B:W5!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,!$R!!!!!!!!!!%.2(*J&gt;G6S48.H,G.U&lt;!!71&amp;!!!A!&amp;!!='48.H)'FO!!"5!0!!$!!$!!1!#!!*!!I!#A!+!!I!#Q!+!!Q!#1-!!(A!!!U)!!!*!!!!$1I!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!+!!!!EA!!!!!"!!U!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
