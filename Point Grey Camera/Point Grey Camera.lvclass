@@ -402,13 +402,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="AcquireHardware.vi" Type="VI" URL="../AcquireHardware.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;5!]1!!!!!!!!!"$EF.16%A37VB:W5O9X2M!$Z!=!!&gt;#5F.16&amp;*&lt;7&amp;H:1!!#5F.16&amp;*&lt;7&amp;H:3!!A!!!!!!"!!1!!!!"!!!!!!!!#5FN97&gt;F)%^V&gt;!![1(!!(A!!'RF1&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93ZM&gt;G.M98.T!"61&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1![1(!!(A!!'RF1&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93ZM&gt;G.M98.T!"21&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*!!!!!!!1!*!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;5!]1!!!!!!!!!"$EF.16%A37VB:W5O9X2M!$Z!=!!&gt;#5F.16&amp;*&lt;7&amp;H:1!!#5F.16&amp;*&lt;7&amp;H:3!!A!!!!!!"!!1!!!!"!!!!!!!!#5FN97&gt;F)%^V&gt;!![1(!!(A!!'RF1&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93ZM&gt;G.M98.T!"61&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1![1(!!(A!!'RF1&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93ZM&gt;G.M98.T!"21&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">262400</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="SetTriggerDelay.vi" Type="VI" URL="../SetTriggerDelay.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;1!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!".!#A!-=W6U6G&amp;M&gt;75A&lt;X6U!!![1(!!(A!!'RF1&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93ZM&gt;G.M98.T!"61&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!-1$$`````!U&amp;S:Q![1(!!(A!!'RF1&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93ZM&gt;G.M98.T!"21&lt;WFO&gt;#"(=G6Z)%.B&lt;76S93"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!)!!E#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!##!!!!*!!!!!!!1!+!!!!!!</Property>
