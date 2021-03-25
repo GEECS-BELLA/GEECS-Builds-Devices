@@ -312,7 +312,7 @@
 	<Item Name="IMAQ Mask" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Mask"/>
 	<Item Name="IMAQ Modulo" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Modulo"/>
 	<Item Name="IMAQ MulDiv" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ MulDiv"/>
-	<Item Name="IMAQ Multiply" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Multiply"/>
+	<Item Name="IMAQ Multiply" Type="VI" URL="../IMAQ Multiply"/>
 	<Item Name="IMAQ Or" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Or"/>
 	<Item Name="IMAQ Subtract" Type="VI" URL="../IMAQ Subtract"/>
 	<Item Name="IMAQ Xor" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Xor"/>
@@ -423,4 +423,4 @@
 	<Item Name="IMAQ Extract Texture Feature" Type="VI" URL="/&lt;vilib&gt;/vision/Texture.llb/IMAQ Extract Texture Feature"/>
 	<Item Name="IMAQ Extract Wavelet Bands" Type="VI" URL="/&lt;vilib&gt;/vision/Texture.llb/IMAQ Extract Wavelet Bands"/>
 </Library>
-<?sig 8B97FD1F36A4D129DC0DA27F0C3B5200?>
+<?sig 915A9E649020182E5F494288DCA821C3?>
