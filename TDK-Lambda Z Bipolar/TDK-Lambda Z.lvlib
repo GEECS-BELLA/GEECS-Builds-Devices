@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="20008000">
 	<Property Name="Instrument Driver" Type="Str">True</Property>
+	<Property Name="NI.Lib.DefaultMenu" Type="Str">dir.mnu</Property>
 	<Property Name="NI.Lib.Description" Type="Str">LabVIEW Plug and Play instrument driver for
 
 &lt;TDK-Lambda, Z+ Series, Programmable Power Supply&gt;.</Property>
@@ -19,33 +20,52 @@
 				<Item Name="Trigger Continuous.vi" Type="VI" URL="../Trigger Continuous.vi"/>
 			</Item>
 			<Item Name="Query Output Status.vi" Type="VI" URL="../Query Output Status.vi"/>
+			<Item Name="Transient Memory.vi" Type="VI" URL="../Transient Memory.vi"/>
+			<Item Name="Transient Memory (Load).vi" Type="VI" URL="../Transient Memory (Load).vi"/>
+			<Item Name="Transient Memory (Store).vi" Type="VI" URL="../Transient Memory (Store).vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
-			<Item Name="Trigger" Type="Folder"/>
-			<Item Name="Waveform" Type="Folder">
-				<Item Name="Configure Waveform (Voltage).vi" Type="VI" URL="../Configure Waveform (Voltage).vi"/>
+			<Item Name="Trigger" Type="Folder">
+				<Item Name="Configure Trigger.vi" Type="VI" URL="../Configure Trigger.vi"/>
+				<Item Name="Configure Trigger (Voltage).vi" Type="VI" URL="../Configure Trigger (Voltage).vi"/>
+				<Item Name="Configure Trigger (Current).vi" Type="VI" URL="../Configure Trigger (Current).vi"/>
 			</Item>
-			<Item Name="List" Type="Folder"/>
+			<Item Name="Waveform" Type="Folder">
+				<Item Name="Configure Waveform.vi" Type="VI" URL="../Configure Waveform.vi"/>
+				<Item Name="Configure Waveform (Voltage).vi" Type="VI" URL="../Configure Waveform (Voltage).vi"/>
+				<Item Name="Configure Waveform (Current).vi" Type="VI" URL="../Configure Waveform (Current).vi"/>
+			</Item>
+			<Item Name="List" Type="Folder">
+				<Item Name="Configure List.vi" Type="VI" URL="../Configure List.vi"/>
+				<Item Name="Configure List (Voltage).vi" Type="VI" URL="../Configure List (Voltage).vi"/>
+				<Item Name="Configure List (Current).vi" Type="VI" URL="../Configure List (Current).vi"/>
+			</Item>
 			<Item Name="Configure Current Limit.vi" Type="VI" URL="../Configure Current Limit.vi"/>
 			<Item Name="Configure Trigger Source and Mode.vi" Type="VI" URL="../Configure Trigger Source and Mode.vi"/>
 			<Item Name="Configure Output Enabled.vi" Type="VI" URL="../Configure Output Enabled.vi"/>
 			<Item Name="Configure Over Voltage Protection.vi" Type="VI" URL="../Configure Over Voltage Protection.vi"/>
+			<Item Name="Configure Under Voltage Type.vi" Type="VI" URL="../Configure Under Voltage Type.vi"/>
 			<Item Name="Configure Voltage Limit.vi" Type="VI" URL="../Configure Voltage Limit.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Read Current Output.vi" Type="VI" URL="../Read Current Output.vi"/>
 			<Item Name="Read Voltage Output .vi" Type="VI" URL="../Read Voltage Output .vi"/>
 			<Item Name="Read Power Output.vi" Type="VI" URL="../Read Power Output.vi"/>
+			<Item Name="Read Current.vi" Type="VI" URL="../Read Current.vi"/>
+			<Item Name="Read Voltage.vi" Type="VI" URL="../Read Voltage.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Reset.vi" Type="VI" URL="../Reset.vi"/>
+			<Item Name="Revision Query.vi" Type="VI" URL="../Revision Query.vi"/>
 			<Item Name="Error Query.vi" Type="VI" URL="../Error Query.vi"/>
 			<Item Name="Unit Address.vi" Type="VI" URL="../Unit Address.vi"/>
 			<Item Name="Wait.vi" Type="VI" URL="../Wait.vi"/>
 			<Item Name="Write Read Instrument.vi" Type="VI" URL="../Write Read Instrument.vi"/>
 		</Item>
+		<Item Name="dir.mnu" Type="Document" URL="../dir.mnu"/>
 		<Item Name="CloseTDK.vi" Type="VI" URL="../CloseTDK.vi"/>
 		<Item Name="InitializeTDK.vi" Type="VI" URL="../InitializeTDK.vi"/>
+		<Item Name="VI Tree.vi" Type="VI" URL="../VI Tree.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
