@@ -13,5 +13,6 @@
 	<Item Name="IMAQ Expand" Type="VI" URL="../IMAQ Expand"/>
 	<Item Name="IMAQ Extract" Type="VI" URL="../IMAQ Extract"/>
 	<Item Name="IMAQ Cast Image" Type="VI" URL="../IMAQ Cast Image"/>
+	<Item Name="IMAQ Multiply" Type="VI" URL="../IMAQ Multiply"/>
 </Library>
-<?sig 0DC9246C131DBCBD7316A6AE6E169D6F?>
+<?sig 52B006BC469976B77DB69F510E205E52?>
