@@ -102,12 +102,12 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="select shot.vi" Type="VI" URL="../HamamatsuSpectrometer/select shot.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#I!!!!#!!01!-!#5ZV&lt;76S;7-A-A!.1!-!"UZV&lt;76S;7-!"1!'!!!31%!!!@````]!!A6"=H*B?1!91%!!!P``````````!!)'1H6G:G6S!!!71%!!!@````]!!AB#&gt;7:G:8)A-A!!$U!'!!AD)&amp;"J?'6M=Q!!-!$Q!!9!!!!"!!-!"!!&amp;!!9$!!"1!!!*!!!!#1!!!!E!!!))!!!##!!!!!A!!!!!!1!(!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$!!!!!#1!01!-!#5ZV&lt;76S;7-A-A!.1!-!"UZV&lt;76S;7-!"1!'!!!31%!!!@````]!!A6"=H*B?1!31#%-1E&gt;T&gt;7*U=G&amp;D&gt;'6E!!!71%!!!@````]!!AB#&gt;7:G:8)A-A!!'%"!!!,``````````Q!#"E*V:G:F=A!!$U!'!!AD)&amp;"J?'6M=Q!!.A$Q!!=!!!!"!!-!"!!&amp;!!9!"Q-!!&amp;A!!!E!!!!*!!!!#1!!!!A!!!%+!!!##!!!!!I!!!!!!1!)!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1117782544</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
 	</Item>
 </LVClass>
