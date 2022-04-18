@@ -21,7 +21,7 @@
 				<Item Name="Mean (CDB).vi" Type="VI" URL="../Mean (CDB).vi"/>
 				<Item Name="Mean (DBL).vi" Type="VI" URL="../Mean (DBL).vi"/>
 			</Item>
-			<Item Name="Mean.vi" Type="VI" URL="../Mean.vi"/>
+			<Item Name="Mean.vi" Type="VI" URL="../NI_AALBase/Mean.vi"/>
 		</Item>
 		<Item Name="1siggen" Type="Folder">
 			<Item Name="protected" Type="Folder">
@@ -44,4 +44,4 @@
 		</Item>
 	</Item>
 </Library>
-<?sig 7822B086C392FA1A87E66528FEDA177E?>
+<?sig 80E5C579FF26A56D613353C692BE8FB3?>
