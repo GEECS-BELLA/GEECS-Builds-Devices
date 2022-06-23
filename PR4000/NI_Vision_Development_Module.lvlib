@@ -12,5 +12,6 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="IMAQ Extract" Type="VI" URL="../IMAQ Extract"/>
 	<Item Name="IMAQ Cast Image" Type="VI" URL="../IMAQ Cast Image"/>
+	<Item Name="IMAQ Multiply" Type="VI" URL="../IMAQ Multiply"/>
 </Library>
-<?sig F4E7AE48D7FC9914B172DE286B25A8FD?>
+<?sig B5F039680A1EC266B74FFAA658545A1E?>

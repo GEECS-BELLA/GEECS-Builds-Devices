@@ -23,8 +23,9 @@
 	<Item Name="IMAQ Cast Image" Type="VI" URL="../IMAQ Cast Image"/>
 	<Item Name="IMAQ ImageToImage 2" Type="VI" URL="../IMAQ ImageToImage 2"/>
 	<Item Name="IMAQ Add" Type="VI" URL="../IMAQ Add"/>
+	<Item Name="IMAQ Multiply" Type="VI" URL="../IMAQ Multiply"/>
 	<Item Name="IMAQ Subtract" Type="VI" URL="../IMAQ Subtract"/>
 	<Item Name="IMAQ Threshold" Type="VI" URL="../IMAQ Threshold"/>
 	<Item Name="IMAQ ROIToMask 2" Type="VI" URL="../IMAQ ROIToMask 2"/>
 </Library>
-<?sig E28C971477E9F2F397B5173AA7C844AF?>
+<?sig 927A35141AE1159C37E19C9A218FCE85?>
