@@ -54,6 +54,7 @@ See http://www.zaber.com/wiki/Software/ASCII_Labview_Driver for more information
 				<Item Name="Convert Position Units to Device Units.vi" Type="VI" URL="../Convert Position Units to Device Units.vi"/>
 				<Item Name="Convert Speed Units to Device Units.vi" Type="VI" URL="../Convert Speed Units to Device Units.vi"/>
 				<Item Name="Convert Device Units to Position Units (FW7).vi" Type="VI" URL="../Convert Device Units to Position Units (FW7).vi"/>
+				<Item Name="Format TCPIP VISA Resource Name.vi" Type="VI" URL="../Format TCPIP VISA Resource Name.vi"/>
 			</Item>
 			<Item Name="Error Query.vi" Type="VI" URL="../Error Query.vi"/>
 			<Item Name="Get Device IDs.vi" Type="VI" URL="../Get Device IDs.vi"/>
@@ -61,6 +62,7 @@ See http://www.zaber.com/wiki/Software/ASCII_Labview_Driver for more information
 		</Item>
 		<Item Name="Obsolete" Type="Folder"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../Zaber A Series/Initialize.vi"/>
+		<Item Name="Initialize TCPIP.vi" Type="VI" URL="../Initialize TCPIP.vi"/>
 		<Item Name="Close.vi" Type="VI" URL="../Zaber A Series/Close.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
