@@ -19,6 +19,7 @@
 		</Item>
 		<Item Name="Setpoint" Type="Folder">
 			<Item Name="ED_MRM.vi" Type="VI" URL="../ED_MRM.vi"/>
+			<Item Name="ED_MWI.vi" Type="VI" URL="../ED_MWI.vi"/>
 		</Item>
 		<Item Name="Status" Type="Folder">
 			<Item Name="ED_MRI.vi" Type="VI" URL="../ED_MRI.vi"/>
