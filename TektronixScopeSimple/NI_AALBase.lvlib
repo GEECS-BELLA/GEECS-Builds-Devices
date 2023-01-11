@@ -125,7 +125,7 @@
 			<Item Name="Dot Product.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/baseanly.llb/Dot Product.vi"/>
 			<Item Name="Histogram.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/baseanly.llb/Histogram.vi"/>
 			<Item Name="Inverse Matrix.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/baseanly.llb/Inverse Matrix.vi"/>
-			<Item Name="Mean.vi" Type="VI" URL="../Mean.vi"/>
+			<Item Name="Mean.vi" Type="VI" URL="../NI_AALBase/Mean.vi"/>
 			<Item Name="Median.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/baseanly.llb/Median.vi"/>
 			<Item Name="Mode.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/baseanly.llb/Mode.vi"/>
 			<Item Name="Outer Product.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/baseanly.llb/Outer Product.vi"/>
@@ -296,4 +296,4 @@
 		</Item>
 	</Item>
 </Library>
-<?sig E0B5C62D003BF964F521F771D6AD01D3?>
+<?sig 52C44568ECC8132C520DFA113B66C4E4?>
