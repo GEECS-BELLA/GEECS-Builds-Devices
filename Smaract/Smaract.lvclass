@@ -113,13 +113,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="Update Current Position in DB after Motion.vi" Type="VI" URL="../Update Current Position in DB after Motion.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$!!?!$@`````!!1A!)!!!!!!!1!%!!!!!1!!!!!!!!!Q1(!!$A6*&lt;H.U=A!"!!!A!)!!!!!!!1!%!!!!!1!!!!!!!!N4&lt;7&amp;S97.U)%.041!51$$`````#G.P&lt;7VB&lt;G1A;7Y!!!V!!Q!(1WBB&lt;GZF&lt;!!E1(!!(A!!%1^4&lt;7&amp;S97.U,GRW9WRB=X-!#5^C;G6D&gt;#"J&lt;A!51$$`````#U2F&gt;GFD:3"/97VF!!R!)1&gt;)&lt;WVJ&lt;G=`!"*!)1R.&lt;X2J&lt;WYA2'^O:4]!!":!-0````]-4G6X)%.P&lt;7VB&lt;G2T!!!%!!!!*E"Q!"Y!!"%05WVB=G&amp;D&gt;#ZM&gt;G.M98.T!!J09GJF9X1A&lt;X6U!!"4!0!!#A!"!!)!!Q!%!!5!"A!(!!A!#1!+!Q!!=A!!#A!!!1I!!!!+!!!!#A!!!1I!!!!)!!!!#1!!!!E!!!!!!!!!$1-!#Q!!!!!!!!!!!!1!!!%!#Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$!!?!$@`````!!1A!)!!!!!!!1!%!!!!!1!!!!!!!!!Q1(!!$A6*&lt;H.U=A!"!!!A!)!!!!!!!1!%!!!!!1!!!!!!!!N4&lt;7&amp;S97.U)%.041!51$$`````#G.P&lt;7VB&lt;G1A;7Y!!!V!!Q!(1WBB&lt;GZF&lt;!!E1(!!(A!!%1^4&lt;7&amp;S97.U,GRW9WRB=X-!#5^C;G6D&gt;#"J&lt;A!51$$`````#U2F&gt;GFD:3"/97VF!!R!)1&gt;)&lt;WVJ&lt;G=`!"*!)1R.&lt;X2J&lt;WYA2'^O:4]!!":!-0````]-4G6X)%.P&lt;7VB&lt;G2T!!!%!!!!*E"Q!"Y!!"%05WVB=G&amp;D&gt;#ZM&gt;G.M98.T!!J09GJF9X1A&lt;X6U!!"4!0!!#A!"!!)!!Q!%!!5!"A!(!!A!#1!+!Q!!=A!!#A!!!1I!!!!+!!!!#A!!!AA!!!!)!!!!#1!!!!E!!!!!!!!!$1-!#Q!!!!!!!!!!!!1!!!%!#Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1117782544</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="Find Internal Status.vi" Type="VI" URL="../Find Internal Status.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$A!!!!"A!%!!!!*E"Q!"Y!!"%05WVB=G&amp;D&gt;#ZM&gt;G.M98.T!!N4&lt;7&amp;S97.U)'^V&gt;!!21!-!#E.I97ZO:7QA4G]!!":!5R&amp;/:8=A27RF&lt;76O&gt;#"797RV:1!G1(!!(A!!%1^4&lt;7&amp;S97.U,GRW9WRB=X-!#F.N98*B9X1A;7Y!!'%!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!)!!Q!%!A!!?!!!!!!!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!I!!!!+!!!.!!!!$!!!!!!!!!!!!!!"!!5!!!!!</Property>
