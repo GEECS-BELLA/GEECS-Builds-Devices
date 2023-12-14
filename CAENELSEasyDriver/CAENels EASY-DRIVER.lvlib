@@ -24,6 +24,7 @@
 		<Item Name="Status" Type="Folder">
 			<Item Name="ED_MRI.vi" Type="VI" URL="../ED_MRI.vi"/>
 			<Item Name="ED_MRV.vi" Type="VI" URL="../ED_MRV.vi"/>
+			<Item Name="ED_MST.vi" Type="VI" URL="../ED_MST.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="ED_GetResponse.vi" Type="VI" URL="../ED_GetResponse.vi"/>

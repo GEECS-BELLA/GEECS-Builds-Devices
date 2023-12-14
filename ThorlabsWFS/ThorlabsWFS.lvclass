@@ -99,7 +99,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 	</Item>
 	<Item Name="convert spotfield to WF.vi" Type="VI" URL="../convert spotfield to WF.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!**!!!!&amp;!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$U!+!!F#:7&amp;N2'FB&lt;6A!$U!+!!F#:7&amp;N1W6O&gt;&amp;A!$U!+!!F#:7&amp;N2'FB&lt;6E!$U!+!!F#:7&amp;N1W6O&gt;&amp;E!%U!+!!R898:F:H*P&lt;H2.;7Y!!".!#A!-6W&amp;W:7:S&lt;WZU47&amp;Y!!!81!I!%6*B:'FV=U^G1X6S&gt;G&amp;U&gt;8*F!&amp;A!]1!!!!!!!!!#%V2I&lt;X*M97*T6U:4,GRW9WRB=X-497ZB&lt;(FT;8-A=G6T&gt;7RU,G.U&lt;!!I1&amp;!!"Q!%!!5!"A!(!!A!#1!+$G^V&gt;("V&gt;#"D&lt;(6T&gt;'6S!!!.1!E!"UZV&lt;76S;7-!(%"!!!(`````!!Q018*S98EA6W&amp;W:7:S&lt;WZU!$*!=!!/"5FO=X2S!!!A!)!!!!!!!1!%!!!!!1!!!!!!!!^736.")&amp;*F:GZV&lt;3"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,E"Q!"Y!!"546'BP=GRB9H.82F-O&lt;(:D&lt;'&amp;T=Q!06%2,,5RB&lt;7*E93";)'FO!$*!=!!/"5FO=X2S!!!A!)!!!!!!!1!%!!!!!1!!!!!!!!Z736.")&amp;*F:GZV&lt;3"J&lt;A!!6!$Q!!Q!!Q!,!!U!$A!0!!]!$Q!0!"!!$Q!2!")$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!E!!!!!A!!!!!!1!4!!!!!!</Property>

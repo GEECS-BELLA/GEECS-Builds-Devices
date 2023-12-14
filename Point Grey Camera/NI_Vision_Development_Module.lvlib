@@ -199,7 +199,7 @@
 	<Item Name="IMAQ EdgeDetection" Type="VI" URL="/&lt;vilib&gt;/vision/Filters.llb/IMAQ EdgeDetection"/>
 	<Item Name="IMAQ GetKernel" Type="VI" URL="/&lt;vilib&gt;/vision/Filters.llb/IMAQ GetKernel"/>
 	<Item Name="IMAQ LowPass" Type="VI" URL="../IMAQ LowPass"/>
-	<Item Name="IMAQ NthOrder" Type="VI" URL="/&lt;vilib&gt;/vision/Filters.llb/IMAQ NthOrder"/>
+	<Item Name="IMAQ NthOrder" Type="VI" URL="../IMAQ NthOrder"/>
 	<Item Name="IMAQ 3DView" Type="VI" URL="/&lt;vilib&gt;/vision/Image Manipulation.llb/IMAQ 3DView"/>
 	<Item Name="IMAQ ClipboardToImage" Type="VI" URL="/&lt;vilib&gt;/vision/Image Manipulation.llb/IMAQ ClipboardToImage"/>
 	<Item Name="IMAQ Expand" Type="VI" URL="/&lt;vilib&gt;/vision/Image Manipulation.llb/IMAQ Expand"/>
@@ -423,4 +423,4 @@
 	<Item Name="IMAQ Extract Texture Feature" Type="VI" URL="/&lt;vilib&gt;/vision/Texture.llb/IMAQ Extract Texture Feature"/>
 	<Item Name="IMAQ Extract Wavelet Bands" Type="VI" URL="/&lt;vilib&gt;/vision/Texture.llb/IMAQ Extract Wavelet Bands"/>
 </Library>
-<?sig 915A9E649020182E5F494288DCA821C3?>
+<?sig 9691FB3B60BC9812C561D6EAF090D8F9?>
