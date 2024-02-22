@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="subvi" Type="Folder">
-		<Item Name="Error Converter (ErrCode or Status).vi" Type="VI" URL="../Error Converter (ErrCode or Status).vi"/>
+		<Item Name="Error Converter (ErrCode or Status).vi" Type="VI" URL="../gclib32/Error Converter (ErrCode or Status).vi"/>
 	</Item>
 	<Item Name="G Array Download.vi" Type="VI" URL="../G Array Download.vi"/>
 	<Item Name="G Array Upload.vi" Type="VI" URL="../G Array Upload.vi"/>
