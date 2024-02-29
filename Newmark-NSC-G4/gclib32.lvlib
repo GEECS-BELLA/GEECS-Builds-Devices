@@ -7,7 +7,6 @@
 	<Item Name="subvi" Type="Folder">
 		<Item Name="Error Converter (ErrCode or Status).vi" Type="VI" URL="../Error Converter (ErrCode or Status).vi"/>
 	</Item>
-	<Item Name="G Close.vi" Type="VI" URL="../G Close.vi"/>
 	<Item Name="G Command.vi" Type="VI" URL="../G Command.vi"/>
 	<Item Name="G Open.vi" Type="VI" URL="../G Open.vi"/>
 </Library>
