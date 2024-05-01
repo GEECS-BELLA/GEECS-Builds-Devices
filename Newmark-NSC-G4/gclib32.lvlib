@@ -7,14 +7,6 @@
 	<Item Name="subvi" Type="Folder">
 		<Item Name="Error Converter (ErrCode or Status).vi" Type="VI" URL="../Error Converter (ErrCode or Status).vi"/>
 	</Item>
-	<Item Name="G Array Download.vi" Type="VI" URL="../G Array Download.vi"/>
-	<Item Name="G Array Upload.vi" Type="VI" URL="../G Array Upload.vi"/>
-	<Item Name="G Close.vi" Type="VI" URL="../G Close.vi"/>
 	<Item Name="G Command.vi" Type="VI" URL="../G Command.vi"/>
-	<Item Name="G Interrupt.vi" Type="VI" URL="../G Interrupt.vi"/>
-	<Item Name="G Message.vi" Type="VI" URL="../G Message.vi"/>
 	<Item Name="G Open.vi" Type="VI" URL="../G Open.vi"/>
-	<Item Name="G Program Download.vi" Type="VI" URL="../G Program Download.vi"/>
-	<Item Name="G Program Upload.vi" Type="VI" URL="../G Program Upload.vi"/>
-	<Item Name="G Record.vi" Type="VI" URL="../G Record.vi"/>
 </Library>
