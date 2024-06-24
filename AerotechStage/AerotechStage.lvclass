@@ -129,13 +129,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="Areotech set speed.vi" Type="VI" URL="../Areotech set speed.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(#!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!-0````]-&lt;G6X)'.P&lt;7VB&lt;G2T!!!S1(!!(A!!&amp;R6":8*P&gt;'6D;&amp;.U97&gt;F,GRW9WRB=X-!%5&amp;F=G^U:7.I5X2B:W5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q&gt;$&lt;WVN97ZE!!R!-0````]$18*H!"*!1!!"`````Q!*"%&amp;S:X-!!":!-0````]-5W6Q:8*B&gt;'^S)'FO!!![!0%!!!!!!!!!!26Q98*T:71A:'6W;7.F)'.N:#ZD&gt;'Q!(%"1!!-!#!!+!!M+5'&amp;S=W6E)%..2!!!-E"Q!"Y!!"=6176S&lt;X2F9WB4&gt;'&amp;H:3ZM&gt;G.M98.T!""":8*P&gt;'6D;&amp;.U97&gt;F)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!Q!$1-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!#A!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(#!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!-0````]-&lt;G6X)'.P&lt;7VB&lt;G2T!!!S1(!!(A!!&amp;R6":8*P&gt;'6D;&amp;.U97&gt;F,GRW9WRB=X-!%5&amp;F=G^U:7.I5X2B:W5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q&gt;$&lt;WVN97ZE!!R!-0````]$18*H!"*!1!!"`````Q!*"%&amp;S:X-!!":!-0````]-5W6Q:8*B&gt;'^S)'FO!!![!0%!!!!!!!!!!26Q98*T:71A:'6W;7.F)'.N:#ZD&gt;'Q!(%"1!!-!#!!+!!M+5'&amp;S=W6E)%..2!!!-E"Q!"Y!!"=6176S&lt;X2F9WB4&gt;'&amp;H:3ZM&gt;G.M98.T!""":8*P&gt;'6D;&amp;.U97&gt;F)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!Q!$1)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!#A!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1352671744</Property>
 	</Item>
 	<Item Name="Areotech set enable.vi" Type="VI" URL="../Areotech set enable.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(#!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!-0````]-&lt;G6X)'.P&lt;7VB&lt;G2T!!!S1(!!(A!!&amp;R6":8*P&gt;'6D;&amp;.U97&gt;F,GRW9WRB=X-!%5&amp;F=G^U:7.I5X2B:W5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q&gt;$&lt;WVN97ZE!!R!-0````]$18*H!"*!1!!"`````Q!*"%&amp;S:X-!!":!-0````]-5W6Q:8*B&gt;'^S)'FO!!![!0%!!!!!!!!!!26Q98*T:71A:'6W;7.F)'.N:#ZD&gt;'Q!(%"1!!-!#!!+!!M+5'&amp;S=W6E)%..2!!!-E"Q!"Y!!"=6176S&lt;X2F9WB4&gt;'&amp;H:3ZM&gt;G.M98.T!""":8*P&gt;'6D;&amp;.U97&gt;F)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!Q!$1-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!#A!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
