@@ -23,8 +23,6 @@
 			<Item Name="Configure VSET.vi" Type="VI" URL="../Configure VSET.vi"/>
 			<Item Name="Configure ISET.vi" Type="VI" URL="../Configure ISET.vi"/>
 			<Item Name="Configure MAXV.vi" Type="VI" URL="../Configure MAXV.vi"/>
-			<Item Name="Configure RAMP UP.vi" Type="VI" URL="../Configure RAMP UP.vi"/>
-			<Item Name="Configure RAMP DOWN.vi" Type="VI" URL="../Configure RAMP DOWN.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Read out VMON.vi" Type="VI" URL="../Read out VMON.vi"/>
