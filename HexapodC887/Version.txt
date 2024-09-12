@@ -1,0 +1,12 @@
+PI General GCS2 LabVIEW Driver Set
+
+Version: 7.4.0
+Manual file: PI_GCS2_LabVIEW_EN_SM158E.pdf
+
+PI-Software Module ID: 181
+
+(c) 2002 Physik Instrumente (PI) GmbH & Co. KG
+Auf der Roemerstr. 1
+76228 Karlsruhe, Germany
+EMail: support-software@pi.ws
+www.pi.ws

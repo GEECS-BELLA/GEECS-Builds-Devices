@@ -8,9 +8,23 @@
 	<Item Name="FindInput.vi" Type="VI" URL="../FindInput.vi"/>
 	<Item Name="FindTerm.vi" Type="VI" URL="../FindTerm.vi"/>
 	<Item Name="VersionLess.vi" Type="VI" URL="../VersionLess.vi"/>
+	<Item Name="XNodeAutotoolRegion.ctl" Type="VI" URL="../XNodeAutotoolRegion.ctl"/>
+	<Item Name="XNodeAutotoolRegions.ctl" Type="VI" URL="../XNodeAutotoolRegions.ctl"/>
 	<Item Name="XNodeBool.ctl" Type="VI" URL="../XNodeBool.ctl"/>
+	<Item Name="XNodeDiff.ctl" Type="VI" URL="../XNodeDiff.ctl"/>
+	<Item Name="XNodeDiffs.ctl" Type="VI" URL="../XNodeDiffs.ctl"/>
 	<Item Name="XNodeInt.ctl" Type="VI" URL="../XNodeInt.ctl"/>
+	<Item Name="XNodeKeyValuePair.ctl" Type="VI" URL="../XNodeKeyValuePair.ctl"/>
+	<Item Name="XNodeKeyValuePairArray.ctl" Type="VI" URL="../XNodeKeyValuePairArray.ctl"/>
+	<Item Name="XNodeMenuRef.ctl" Type="VI" URL="../XNodeMenuRef.ctl"/>
+	<Item Name="XNodeMenuSpec3.ctl" Type="VI" URL="../XNodeMenuSpec3.ctl"/>
+	<Item Name="XNodeMenuSpecs3.ctl" Type="VI" URL="../XNodeMenuSpecs3.ctl"/>
+	<Item Name="XNodeMenuType.ctl" Type="VI" URL="../XNodeMenuType.ctl"/>
+	<Item Name="XNodeMultiObjectPopupOptions.ctl" Type="VI" URL="../XNodeMultiObjectPopupOptions.ctl"/>
+	<Item Name="XNodePath.ctl" Type="VI" URL="../XNodePath.ctl"/>
+	<Item Name="XNodePoint.ctl" Type="VI" URL="../XNodePoint.ctl"/>
 	<Item Name="XNodeRect32.ctl" Type="VI" URL="../XNodeRect32.ctl"/>
+	<Item Name="XNodeStandardHelpInfo.ctl" Type="VI" URL="../XNodeStandardHelpInfo.ctl"/>
 	<Item Name="XNodeString.ctl" Type="VI" URL="../XNodeString.ctl"/>
 	<Item Name="XNodeStringArray.ctl" Type="VI" URL="../XNodeStringArray.ctl"/>
 	<Item Name="XNodeTermIDPair.ctl" Type="VI" URL="../XNodeTermIDPair.ctl"/>
@@ -18,10 +32,12 @@
 	<Item Name="XNodeTermRef.ctl" Type="VI" URL="../XNodeTermRef.ctl"/>
 	<Item Name="XNodeTermTypeIDPair.ctl" Type="VI" URL="../XNodeTermTypeIDPair.ctl"/>
 	<Item Name="XNodeTermTypeIDPairs.ctl" Type="VI" URL="../XNodeTermTypeIDPairs.ctl"/>
+	<Item Name="XNodeTools.ctl" Type="VI" URL="../XNodeTools.ctl"/>
 	<Item Name="XNodeType.ctl" Type="VI" URL="../XNodeType.ctl"/>
+	<Item Name="XNodeUInt.ctl" Type="VI" URL="../XNodeUInt.ctl"/>
 	<Item Name="XNodeUShort.ctl" Type="VI" URL="../XNodeUShort.ctl"/>
 	<Item Name="XNodeVariant.ctl" Type="VI" URL="../XNodeVariant.ctl"/>
 	<Item Name="XNodeVersion.ctl" Type="VI" URL="../XNodeVersion.ctl"/>
 	<Item Name="XNodeXNodeRef.ctl" Type="VI" URL="../XNodeXNodeRef.ctl"/>
 </Library>
-<?sig BB8430DC5079BC7D3828F6140211C37D?>
+<?sig AD28AFAE4818D102DE65CF1E13F3C0EC?>

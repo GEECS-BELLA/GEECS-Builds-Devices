@@ -7,6 +7,9 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="lvfile" Type="Folder">
+		<Item Name="FT_FileTypes.ctl" Type="VI" URL="../FT_FileTypes.ctl"/>
+		<Item Name="Get File Type.vi" Type="VI" URL="../Get File Type.vi"/>
 		<Item Name="Is File an LLB.vi" Type="VI" URL="../Is File an LLB.vi"/>
+		<Item Name="LVFileType.ctl" Type="VI" URL="../LVFileType.ctl"/>
 	</Item>
 </Library>
