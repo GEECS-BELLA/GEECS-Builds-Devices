@@ -22,6 +22,7 @@
 		<Item Name="1siggen" Type="Folder">
 			<Item Name="protected" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">0</Property>
+				<Item Name="Ramp Pattern by Samples.vi" Type="VI" URL="../Ramp Pattern by Samples.vi"/>
 			</Item>
 		</Item>
 		<Item Name="3filter" Type="Folder">
@@ -34,4 +35,4 @@
 		</Item>
 	</Item>
 </Library>
-<?sig 7DD0544EABF8470880270546859604B3?>
+<?sig 35D4A45D61749F660C862865945920F3?>
