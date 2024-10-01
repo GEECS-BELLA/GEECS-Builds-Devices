@@ -4,25 +4,25 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="PCO_Recorder_CompressionParams.ctl" Type="VI" URL="../PCO_Recorder_CompressionParams.ctl"/>
-	<Item Name="PCO_RecorderCleanup.vi" Type="VI" URL="../PCO_RecorderCleanup.vi"/>
+	<Item Name="PCO_Recorder_CompressionParams.ctl" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/Structures/PCO_Recorder_CompressionParams.ctl"/>
+	<Item Name="PCO_RecorderCleanup.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/VIs/PCO_RecorderCleanup.vi"/>
 	<Item Name="PCO_RecorderCopyAverageImage.vi" Type="VI" URL="../PCO_RecorderCopyAverageImage.vi"/>
 	<Item Name="PCO_RecorderCopyImage.vi" Type="VI" URL="../PCO_RecorderCopyImage.vi"/>
 	<Item Name="PCO_RecorderCopyImageCompressed.vi" Type="VI" URL="../PCO_RecorderCopyImageCompressed.vi"/>
 	<Item Name="PCO_RecorderCreate.vi" Type="VI" URL="../PCO_RecorderCreate.vi"/>
 	<Item Name="PCO_RecorderDelete.vi" Type="VI" URL="../PCO_RecorderDelete.vi"/>
-	<Item Name="PCO_RecorderExportImage.vi" Type="VI" URL="../PCO_RecorderExportImage.vi"/>
+	<Item Name="PCO_RecorderExportImage.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/VIs/PCO_RecorderExportImage.vi"/>
 	<Item Name="PCO_RecorderGetSettings.vi" Type="VI" URL="../PCO_RecorderGetSettings.vi"/>
 	<Item Name="PCO_RecorderGetStatus.vi" Type="VI" URL="../PCO_RecorderGetStatus.vi"/>
-	<Item Name="PCO_RecorderGetVersion.vi" Type="VI" URL="../PCO_RecorderGetVersion.vi"/>
+	<Item Name="PCO_RecorderGetVersion.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/VIs/PCO_RecorderGetVersion.vi"/>
 	<Item Name="PCO_RecorderInit.vi" Type="VI" URL="../PCO_RecorderInit.vi"/>
-	<Item Name="PCO_RecorderResetLib.vi" Type="VI" URL="../PCO_RecorderResetLib.vi"/>
-	<Item Name="PCO_RecorderSaveImage_B8.vi" Type="VI" URL="../PCO_RecorderSaveImage_B8.vi"/>
-	<Item Name="PCO_RecorderSaveImage_B16.vi" Type="VI" URL="../PCO_RecorderSaveImage_B16.vi"/>
-	<Item Name="PCO_RecorderSaveOverlay_B8.vi" Type="VI" URL="../PCO_RecorderSaveOverlay_B8.vi"/>
-	<Item Name="PCO_RecorderSaveOverlay_B16.vi" Type="VI" URL="../PCO_RecorderSaveOverlay_B16.vi"/>
-	<Item Name="PCO_RecorderSetAutoExposure.vi" Type="VI" URL="../PCO_RecorderSetAutoExposure.vi"/>
-	<Item Name="PCO_RecorderSetAutoExpRegions.vi" Type="VI" URL="../PCO_RecorderSetAutoExpRegions.vi"/>
+	<Item Name="PCO_RecorderResetLib.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/VIs/PCO_RecorderResetLib.vi"/>
+	<Item Name="PCO_RecorderSaveImage_B8.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/VIs/PCO_RecorderSaveImage_B8.vi"/>
+	<Item Name="PCO_RecorderSaveImage_B16.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/VIs/PCO_RecorderSaveImage_B16.vi"/>
+	<Item Name="PCO_RecorderSaveOverlay_B8.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/VIs/PCO_RecorderSaveOverlay_B8.vi"/>
+	<Item Name="PCO_RecorderSaveOverlay_B16.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/VIs/PCO_RecorderSaveOverlay_B16.vi"/>
+	<Item Name="PCO_RecorderSetAutoExposure.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/VIs/PCO_RecorderSetAutoExposure.vi"/>
+	<Item Name="PCO_RecorderSetAutoExpRegions.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.recorder/VIs/PCO_RecorderSetAutoExpRegions.vi"/>
 	<Item Name="PCO_RecorderSetCompressionParams.vi" Type="VI" URL="../PCO_RecorderSetCompressionParams.vi"/>
 	<Item Name="PCO_RecorderStartRecord.vi" Type="VI" URL="../PCO_RecorderStartRecord.vi"/>
 	<Item Name="PCO_RecorderStopRecord.vi" Type="VI" URL="../PCO_RecorderStopRecord.vi"/>

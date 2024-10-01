@@ -10,34 +10,34 @@ Setting parameters in this group can only be done, if Recording State is [stop],
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="PCO_GetActiveLookupTable.vi" Type="VI" URL="../PCO_GetActiveLookupTable.vi"/>
-	<Item Name="PCO_GetADCOperation.vi" Type="VI" URL="../PCO_GetADCOperation.vi"/>
+	<Item Name="PCO_GetActiveLookupTable.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_GetActiveLookupTable.vi"/>
+	<Item Name="PCO_GetADCOperation.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_GetADCOperation.vi"/>
 	<Item Name="PCO_GetBinning.vi" Type="VI" URL="../PCO_GetBinning.vi"/>
-	<Item Name="PCO_GetConversionFactor.vi" Type="VI" URL="../PCO_GetConversionFactor.vi"/>
-	<Item Name="PCO_GetCoolingSetpoints.vi" Type="VI" URL="../PCO_GetCoolingSetpoints.vi"/>
-	<Item Name="PCO_GetCoolingSetpointTemperature.vi" Type="VI" URL="../PCO_GetCoolingSetpointTemperature.vi"/>
+	<Item Name="PCO_GetConversionFactor.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_GetConversionFactor.vi"/>
+	<Item Name="PCO_GetCoolingSetpoints.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_GetCoolingSetpoints.vi"/>
+	<Item Name="PCO_GetCoolingSetpointTemperature.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_GetCoolingSetpointTemperature.vi"/>
 	<Item Name="PCO_GetDoubleImageMode.vi" Type="VI" URL="../PCO_GetDoubleImageMode.vi"/>
 	<Item Name="PCO_GetIRSensitivity.vi" Type="VI" URL="../PCO_GetIRSensitivity.vi"/>
-	<Item Name="PCO_GetLookupTableInfo.vi" Type="VI" URL="../PCO_GetLookupTableInfo.vi"/>
+	<Item Name="PCO_GetLookupTableInfo.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_GetLookupTableInfo.vi"/>
 	<Item Name="PCO_GetNoiseFilterMode.vi" Type="VI" URL="../PCO_GetNoiseFilterMode.vi"/>
-	<Item Name="PCO_GetOffsetMode.vi" Type="VI" URL="../PCO_GetOffsetMode.vi"/>
+	<Item Name="PCO_GetOffsetMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_GetOffsetMode.vi"/>
 	<Item Name="PCO_GetPixelRate.vi" Type="VI" URL="../PCO_GetPixelRate.vi"/>
 	<Item Name="PCO_GetROI.vi" Type="VI" URL="../PCO_GetROI.vi"/>
 	<Item Name="PCO_GetSensorDarkOffset.vi" Type="VI" URL="../PCO_GetSensorDarkOffset.vi"/>
 	<Item Name="PCO_GetSensorFormat.vi" Type="VI" URL="../PCO_GetSensorFormat.vi"/>
-	<Item Name="PCO_GetSensorStruct.vi" Type="VI" URL="../PCO_GetSensorStruct.vi"/>
-	<Item Name="PCO_GetSizes.vi" Type="VI" URL="../PCO_GetSizes.vi"/>
-	<Item Name="PCO_SetActiveLookupTable.vi" Type="VI" URL="../PCO_SetActiveLookupTable.vi"/>
-	<Item Name="PCO_SetADCOperation.vi" Type="VI" URL="../PCO_SetADCOperation.vi"/>
+	<Item Name="PCO_GetSensorStruct.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_GetSensorStruct.vi"/>
+	<Item Name="PCO_GetSizes.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_GetSizes.vi"/>
+	<Item Name="PCO_SetActiveLookupTable.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_SetActiveLookupTable.vi"/>
+	<Item Name="PCO_SetADCOperation.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_SetADCOperation.vi"/>
 	<Item Name="PCO_SetBinning.vi" Type="VI" URL="../PCO_SetBinning.vi"/>
-	<Item Name="PCO_SetConversionFactor.vi" Type="VI" URL="../PCO_SetConversionFactor.vi"/>
-	<Item Name="PCO_SetCoolingSetpointTemperature.vi" Type="VI" URL="../PCO_SetCoolingSetpointTemperature.vi"/>
-	<Item Name="PCO_SetDoubleImageMode.vi" Type="VI" URL="../PCO_SetDoubleImageMode.vi"/>
-	<Item Name="PCO_SetIRSensitivity.vi" Type="VI" URL="../PCO_SetIRSensitivity.vi"/>
+	<Item Name="PCO_SetConversionFactor.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_SetConversionFactor.vi"/>
+	<Item Name="PCO_SetCoolingSetpointTemperature.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_SetCoolingSetpointTemperature.vi"/>
+	<Item Name="PCO_SetDoubleImageMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_SetDoubleImageMode.vi"/>
+	<Item Name="PCO_SetIRSensitivity.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_SetIRSensitivity.vi"/>
 	<Item Name="PCO_SetNoiseFilterMode.vi" Type="VI" URL="../PCO_SetNoiseFilterMode.vi"/>
-	<Item Name="PCO_SetOffsetMode.vi" Type="VI" URL="../PCO_SetOffsetMode.vi"/>
+	<Item Name="PCO_SetOffsetMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_SetOffsetMode.vi"/>
 	<Item Name="PCO_SetPixelRate.vi" Type="VI" URL="../PCO_SetPixelRate.vi"/>
 	<Item Name="PCO_SetROI.vi" Type="VI" URL="../PCO_SetROI.vi"/>
-	<Item Name="PCO_SetSensorFormat.vi" Type="VI" URL="../PCO_SetSensorFormat.vi"/>
-	<Item Name="PCO_SetSensorStruct.vi" Type="VI" URL="../PCO_SetSensorStruct.vi"/>
+	<Item Name="PCO_SetSensorFormat.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_SetSensorFormat.vi"/>
+	<Item Name="PCO_SetSensorStruct.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageSensor/VIs/PCO_SetSensorStruct.vi"/>
 </Library>

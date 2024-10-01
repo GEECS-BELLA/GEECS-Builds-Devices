@@ -8,12 +8,12 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="PCO_GetCameraHealthStatus.vi" Type="VI" URL="../PCO_GetCameraHealthStatus.vi"/>
+	<Item Name="PCO_GetCameraHealthStatus.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraStatus/VIs/PCO_GetCameraHealthStatus.vi"/>
 	<Item Name="PCO_GetCameraName.vi" Type="VI" URL="../PCO_GetCameraName.vi"/>
 	<Item Name="PCO_GetCameraType.vi" Type="VI" URL="../PCO_GetCameraType.vi"/>
 	<Item Name="PCO_GetColorCorrectionMatrix.vi" Type="VI" URL="../PCO_GetColorCorrectionMatrix.vi"/>
-	<Item Name="PCO_GetFirmwareInfo.vi" Type="VI" URL="../PCO_GetFirmwareInfo.vi"/>
-	<Item Name="PCO_GetGeneral.vi" Type="VI" URL="../PCO_GetGeneral.vi"/>
-	<Item Name="PCO_GetInfoString.vi" Type="VI" URL="../PCO_GetInfoString.vi"/>
-	<Item Name="PCO_GetTemperature.vi" Type="VI" URL="../PCO_GetTemperature.vi"/>
+	<Item Name="PCO_GetFirmwareInfo.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraStatus/VIs/PCO_GetFirmwareInfo.vi"/>
+	<Item Name="PCO_GetGeneral.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraStatus/VIs/PCO_GetGeneral.vi"/>
+	<Item Name="PCO_GetInfoString.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraStatus/VIs/PCO_GetInfoString.vi"/>
+	<Item Name="PCO_GetTemperature.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraStatus/VIs/PCO_GetTemperature.vi"/>
 </Library>

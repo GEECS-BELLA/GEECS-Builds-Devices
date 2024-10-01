@@ -12,13 +12,13 @@
 	<Item Name="ImageSensor.lvlib" Type="Library" URL="../ImageSensor.lvlib"/>
 	<Item Name="TimingControl.lvlib" Type="Library" URL="../TimingControl.lvlib"/>
 	<Item Name="RecordingControl.lvlib" Type="Library" URL="../RecordingControl.lvlib"/>
-	<Item Name="StorageControl.lvlib" Type="Library" URL="../StorageControl.lvlib"/>
+	<Item Name="StorageControl.lvlib" Type="Library" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/StorageControl/StorageControl.lvlib"/>
 	<Item Name="ImageInformation.lvlib" Type="Library" URL="../ImageInformation.lvlib"/>
-	<Item Name="SpecialCommandsEdge.lvlib" Type="Library" URL="../SpecialCommandsEdge.lvlib"/>
-	<Item Name="SpecialCommandsDimax.lvlib" Type="Library" URL="../SpecialCommandsDimax.lvlib"/>
-	<Item Name="SpecialCommandsDimax_HDSDI.lvlib" Type="Library" URL="../SpecialCommandsDimax_HDSDI.lvlib"/>
-	<Item Name="SpecialCommandsFlim.lvlib" Type="Library" URL="../SpecialCommandsFlim.lvlib"/>
+	<Item Name="SpecialCommandsEdge.lvlib" Type="Library" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/SpecialCommandsEdge/SpecialCommandsEdge.lvlib"/>
+	<Item Name="SpecialCommandsDimax.lvlib" Type="Library" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/SpecialCommandsDimax/SpecialCommandsDimax.lvlib"/>
+	<Item Name="SpecialCommandsDimax_HDSDI.lvlib" Type="Library" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/SpecialCommandsDimax_HDSDI/SpecialCommandsDimax_HDSDI.lvlib"/>
+	<Item Name="SpecialCommandsFlim.lvlib" Type="Library" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/SpecialCommandsFlim/SpecialCommandsFlim.lvlib"/>
 	<Item Name="LensControl.lvlib" Type="Library" URL="../LensControl.lvlib"/>
-	<Item Name="SpecialCommandsDicam.lvlib" Type="Library" URL="../SpecialCommandsDicam.lvlib"/>
+	<Item Name="SpecialCommandsDicam.lvlib" Type="Library" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/SpecialCommandsDicam/SpecialCommandsDicam.lvlib"/>
 	<Item Name="Structures.lvlib" Type="Library" URL="../Structures.lvlib"/>
 </Library>

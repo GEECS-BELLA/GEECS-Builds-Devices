@@ -9,6 +9,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="PCO_GetCameraDescription.vi" Type="VI" URL="../PCO_GetCameraDescription.vi"/>
-	<Item Name="PCO_GetCameraDescription2.vi" Type="VI" URL="../PCO_GetCameraDescription2.vi"/>
+	<Item Name="PCO_GetCameraDescription2.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/CameraDescription/VIs/PCO_GetCameraDescription2.vi"/>
 	<Item Name="PCO_GetCameraDescription3.vi" Type="VI" URL="../PCO_GetCameraDescription3.vi"/>
 </Library>

@@ -8,14 +8,14 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="PCO_CleanupLensControl.vi" Type="VI" URL="../PCO_CleanupLensControl.vi"/>
+	<Item Name="PCO_CleanupLensControl.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/LensControl/VIs/PCO_CleanupLensControl.vi"/>
 	<Item Name="PCO_CloseLensControl.vi" Type="VI" URL="../PCO_CloseLensControl.vi"/>
-	<Item Name="PCO_GetAperture.vi" Type="VI" URL="../PCO_GetAperture.vi"/>
-	<Item Name="PCO_GetApertureF.vi" Type="VI" URL="../PCO_GetApertureF.vi"/>
-	<Item Name="PCO_GetLensFocus.vi" Type="VI" URL="../PCO_GetLensFocus.vi"/>
-	<Item Name="PCO_InitLensControl.vi" Type="VI" URL="../PCO_InitLensControl.vi"/>
-	<Item Name="PCO_SendBirgerCommand.vi" Type="VI" URL="../PCO_SendBirgerCommand.vi"/>
-	<Item Name="PCO_SetAperture.vi" Type="VI" URL="../PCO_SetAperture.vi"/>
-	<Item Name="PCO_SetApertureF.vi" Type="VI" URL="../PCO_SetApertureF.vi"/>
-	<Item Name="PCO_SetLensFocus.vi" Type="VI" URL="../PCO_SetLensFocus.vi"/>
+	<Item Name="PCO_GetAperture.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/LensControl/VIs/PCO_GetAperture.vi"/>
+	<Item Name="PCO_GetApertureF.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/LensControl/VIs/PCO_GetApertureF.vi"/>
+	<Item Name="PCO_GetLensFocus.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/LensControl/VIs/PCO_GetLensFocus.vi"/>
+	<Item Name="PCO_InitLensControl.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/LensControl/VIs/PCO_InitLensControl.vi"/>
+	<Item Name="PCO_SendBirgerCommand.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/LensControl/VIs/PCO_SendBirgerCommand.vi"/>
+	<Item Name="PCO_SetAperture.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/LensControl/VIs/PCO_SetAperture.vi"/>
+	<Item Name="PCO_SetApertureF.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/LensControl/VIs/PCO_SetApertureF.vi"/>
+	<Item Name="PCO_SetLensFocus.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/LensControl/VIs/PCO_SetLensFocus.vi"/>
 </Library>
