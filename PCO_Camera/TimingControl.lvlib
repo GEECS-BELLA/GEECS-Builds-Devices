@@ -13,36 +13,36 @@ Although delay and exposure time values can be given as a table of values, most 
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="PCO_ForceTrigger.vi" Type="VI" URL="../PCO_ForceTrigger.vi"/>
-	<Item Name="PCO_GetCameraBusyStatus.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetCameraBusyStatus.vi"/>
-	<Item Name="PCO_GetCameraSynchMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetCameraSynchMode.vi"/>
-	<Item Name="PCO_GetCOCRuntime.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetCOCRuntime.vi"/>
+	<Item Name="PCO_GetCameraBusyStatus.vi" Type="VI" URL="../PCO_GetCameraBusyStatus.vi"/>
+	<Item Name="PCO_GetCameraSynchMode.vi" Type="VI" URL="../PCO_GetCameraSynchMode.vi"/>
+	<Item Name="PCO_GetCOCRuntime.vi" Type="VI" URL="../PCO_GetCOCRuntime.vi"/>
 	<Item Name="PCO_GetDelayExposureTime.vi" Type="VI" URL="../PCO_GetDelayExposureTime.vi"/>
-	<Item Name="PCO_GetDelayExposureTimeTable.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetDelayExposureTimeTable.vi"/>
-	<Item Name="PCO_GetExpTrigSignalStatus.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetExpTrigSignalStatus.vi"/>
-	<Item Name="PCO_GetFastTimingMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetFastTimingMode.vi"/>
-	<Item Name="PCO_GetFPSExposureMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetFPSExposureMode.vi"/>
-	<Item Name="PCO_GetFrameRate.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetFrameRate.vi"/>
-	<Item Name="PCO_GetHWIOSignal.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetHWIOSignal.vi"/>
-	<Item Name="PCO_GetHWIOSignalCount.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetHWIOSignalCount.vi"/>
-	<Item Name="PCO_GetHWIOSignalDescriptor.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetHWIOSignalDescriptor.vi"/>
-	<Item Name="PCO_GetHWIOSignalTiming.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetHWIOSignalTiming.vi"/>
-	<Item Name="PCO_GetImageTiming.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetImageTiming.vi"/>
-	<Item Name="PCO_GetModulationMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetModulationMode.vi"/>
-	<Item Name="PCO_GetPowerDownMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetPowerDownMode.vi"/>
-	<Item Name="PCO_GetTimingStruct.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetTimingStruct.vi"/>
+	<Item Name="PCO_GetDelayExposureTimeTable.vi" Type="VI" URL="../PCO_GetDelayExposureTimeTable.vi"/>
+	<Item Name="PCO_GetExpTrigSignalStatus.vi" Type="VI" URL="../PCO_GetExpTrigSignalStatus.vi"/>
+	<Item Name="PCO_GetFastTimingMode.vi" Type="VI" URL="../PCO_GetFastTimingMode.vi"/>
+	<Item Name="PCO_GetFPSExposureMode.vi" Type="VI" URL="../PCO_GetFPSExposureMode.vi"/>
+	<Item Name="PCO_GetFrameRate.vi" Type="VI" URL="../PCO_GetFrameRate.vi"/>
+	<Item Name="PCO_GetHWIOSignal.vi" Type="VI" URL="../PCO_GetHWIOSignal.vi"/>
+	<Item Name="PCO_GetHWIOSignalCount.vi" Type="VI" URL="../PCO_GetHWIOSignalCount.vi"/>
+	<Item Name="PCO_GetHWIOSignalDescriptor.vi" Type="VI" URL="../PCO_GetHWIOSignalDescriptor.vi"/>
+	<Item Name="PCO_GetHWIOSignalTiming.vi" Type="VI" URL="../PCO_GetHWIOSignalTiming.vi"/>
+	<Item Name="PCO_GetImageTiming.vi" Type="VI" URL="../PCO_GetImageTiming.vi"/>
+	<Item Name="PCO_GetModulationMode.vi" Type="VI" URL="../PCO_GetModulationMode.vi"/>
+	<Item Name="PCO_GetPowerDownMode.vi" Type="VI" URL="../PCO_GetPowerDownMode.vi"/>
+	<Item Name="PCO_GetTimingStruct.vi" Type="VI" URL="../PCO_GetTimingStruct.vi"/>
 	<Item Name="PCO_GetTriggerMode.vi" Type="VI" URL="../PCO_GetTriggerMode.vi"/>
-	<Item Name="PCO_GetUserPowerDownTime.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_GetUserPowerDownTime.vi"/>
-	<Item Name="PCO_SetCameraSynchMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetCameraSynchMode.vi"/>
+	<Item Name="PCO_GetUserPowerDownTime.vi" Type="VI" URL="../PCO_GetUserPowerDownTime.vi"/>
+	<Item Name="PCO_SetCameraSynchMode.vi" Type="VI" URL="../PCO_SetCameraSynchMode.vi"/>
 	<Item Name="PCO_SetDelayExposureTime.vi" Type="VI" URL="../PCO_SetDelayExposureTime.vi"/>
-	<Item Name="PCO_SetDelayExposureTimeTable.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetDelayExposureTimeTable.vi"/>
-	<Item Name="PCO_SetFastTimingMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetFastTimingMode.vi"/>
-	<Item Name="PCO_SetFPSExposureMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetFPSExposureMode.vi"/>
-	<Item Name="PCO_SetFrameRate.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetFrameRate.vi"/>
-	<Item Name="PCO_SetHWIOSignal.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetHWIOSignal.vi"/>
-	<Item Name="PCO_SetHWIOSignalTiming.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetHWIOSignalTiming.vi"/>
-	<Item Name="PCO_SetModulationMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetModulationMode.vi"/>
-	<Item Name="PCO_SetPowerDownMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetPowerDownMode.vi"/>
-	<Item Name="PCO_SetTimingStruct.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetTimingStruct.vi"/>
+	<Item Name="PCO_SetDelayExposureTimeTable.vi" Type="VI" URL="../PCO_SetDelayExposureTimeTable.vi"/>
+	<Item Name="PCO_SetFastTimingMode.vi" Type="VI" URL="../PCO_SetFastTimingMode.vi"/>
+	<Item Name="PCO_SetFPSExposureMode.vi" Type="VI" URL="../PCO_SetFPSExposureMode.vi"/>
+	<Item Name="PCO_SetFrameRate.vi" Type="VI" URL="../PCO_SetFrameRate.vi"/>
+	<Item Name="PCO_SetHWIOSignal.vi" Type="VI" URL="../PCO_SetHWIOSignal.vi"/>
+	<Item Name="PCO_SetHWIOSignalTiming.vi" Type="VI" URL="../PCO_SetHWIOSignalTiming.vi"/>
+	<Item Name="PCO_SetModulationMode.vi" Type="VI" URL="../PCO_SetModulationMode.vi"/>
+	<Item Name="PCO_SetPowerDownMode.vi" Type="VI" URL="../PCO_SetPowerDownMode.vi"/>
+	<Item Name="PCO_SetTimingStruct.vi" Type="VI" URL="../PCO_SetTimingStruct.vi"/>
 	<Item Name="PCO_SetTriggerMode.vi" Type="VI" URL="../PCO_SetTriggerMode.vi"/>
-	<Item Name="PCO_SetUserPowerDownTime.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/TimingControl/VIs/PCO_SetUserPowerDownTime.vi"/>
+	<Item Name="PCO_SetUserPowerDownTime.vi" Type="VI" URL="../PCO_SetUserPowerDownTime.vi"/>
 </Library>

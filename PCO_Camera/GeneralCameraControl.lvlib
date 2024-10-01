@@ -9,13 +9,13 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="PCO_ArmCamera.vi" Type="VI" URL="../PCO_ArmCamera.vi"/>
-	<Item Name="PCO_ControlCommandCall.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraControl/VIs/PCO_ControlCommandCall.vi"/>
-	<Item Name="PCO_GetCameraSetup.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraControl/VIs/PCO_GetCameraSetup.vi"/>
-	<Item Name="PCO_GetFanControlParameters.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraControl/VIs/PCO_GetFanControlParameters.vi"/>
-	<Item Name="PCO_RebootCamera.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraControl/VIs/PCO_RebootCamera.vi"/>
+	<Item Name="PCO_ControlCommandCall.vi" Type="VI" URL="../PCO_ControlCommandCall.vi"/>
+	<Item Name="PCO_GetCameraSetup.vi" Type="VI" URL="../PCO_GetCameraSetup.vi"/>
+	<Item Name="PCO_GetFanControlParameters.vi" Type="VI" URL="../PCO_GetFanControlParameters.vi"/>
+	<Item Name="PCO_RebootCamera.vi" Type="VI" URL="../PCO_RebootCamera.vi"/>
 	<Item Name="PCO_ResetSettingsToDefault.vi" Type="VI" URL="../PCO_ResetSettingsToDefault.vi"/>
-	<Item Name="PCO_SetCameraSetup.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraControl/VIs/PCO_SetCameraSetup.vi"/>
-	<Item Name="PCO_SetFanControlParameters.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraControl/VIs/PCO_SetFanControlParameters.vi"/>
-	<Item Name="PCO_SetImageParameters.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraControl/VIs/PCO_SetImageParameters.vi"/>
-	<Item Name="PCO_SetTimeouts.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/GeneralCameraControl/VIs/PCO_SetTimeouts.vi"/>
+	<Item Name="PCO_SetCameraSetup.vi" Type="VI" URL="../PCO_SetCameraSetup.vi"/>
+	<Item Name="PCO_SetFanControlParameters.vi" Type="VI" URL="../PCO_SetFanControlParameters.vi"/>
+	<Item Name="PCO_SetImageParameters.vi" Type="VI" URL="../PCO_SetImageParameters.vi"/>
+	<Item Name="PCO_SetTimeouts.vi" Type="VI" URL="../PCO_SetTimeouts.vi"/>
 </Library>

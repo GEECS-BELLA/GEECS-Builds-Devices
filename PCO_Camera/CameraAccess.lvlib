@@ -8,9 +8,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="PCO_CheckDeviceAvailability.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/CameraAccess/VIs/PCO_CheckDeviceAvailability.vi"/>
+	<Item Name="PCO_CheckDeviceAvailability.vi" Type="VI" URL="../PCO_CheckDeviceAvailability.vi"/>
 	<Item Name="PCO_CloseCamera.vi" Type="VI" URL="../PCO_CloseCamera.vi"/>
-	<Item Name="PCO_OpenCamera.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/CameraAccess/VIs/PCO_OpenCamera.vi"/>
+	<Item Name="PCO_OpenCamera.vi" Type="VI" URL="../PCO_OpenCamera.vi"/>
 	<Item Name="PCO_OpenCameraEx.vi" Type="VI" URL="../PCO_OpenCameraEx.vi"/>
-	<Item Name="PCO_ResetLib.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/CameraAccess/VIs/PCO_ResetLib.vi"/>
+	<Item Name="PCO_ResetLib.vi" Type="VI" URL="../PCO_ResetLib.vi"/>
 </Library>

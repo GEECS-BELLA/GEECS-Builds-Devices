@@ -11,34 +11,34 @@
 		<Item Name="PCO_TIMESTAMP_STRUCT.vi" Type="VI" URL="../PCO_TIMESTAMP_STRUCT.vi"/>
 	</Item>
 	<Item Name="UI_LensControl" Type="Folder">
-		<Item Name="PCO_Birger.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/UI_LensControl/PCO_Birger.vi"/>
-		<Item Name="PCO_LensControl.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/UI_LensControl/PCO_LensControl.vi"/>
-		<Item Name="PCO_LensControlParameters.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/UI_LensControl/PCO_LensControlParameters.vi"/>
-		<Item Name="PCO_UserInterfaceInfo.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/UI_LensControl/PCO_UserInterfaceInfo.vi"/>
-		<Item Name="PCO_UserInterfaceSettings.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/UI_LensControl/PCO_UserInterfaceSettings.vi"/>
+		<Item Name="PCO_Birger.vi" Type="VI" URL="../PCO_Birger.vi"/>
+		<Item Name="PCO_LensControl.vi" Type="VI" URL="../PCO_LensControl.vi"/>
+		<Item Name="PCO_LensControlParameters.vi" Type="VI" URL="../PCO_LensControlParameters.vi"/>
+		<Item Name="PCO_UserInterfaceInfo.vi" Type="VI" URL="../PCO_UserInterfaceInfo.vi"/>
+		<Item Name="PCO_UserInterfaceSettings.vi" Type="VI" URL="../PCO_UserInterfaceSettings.vi"/>
 	</Item>
-	<Item Name="IMAGE_TRANSFER_MODE_PARAM.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/IMAGE_TRANSFER_MODE_PARAM.vi"/>
+	<Item Name="IMAGE_TRANSFER_MODE_PARAM.vi" Type="VI" URL="../IMAGE_TRANSFER_MODE_PARAM.vi"/>
 	<Item Name="PCO_Camera_Type.vi" Type="VI" URL="../PCO_Camera_Type.vi"/>
 	<Item Name="PCO_Description.vi" Type="VI" URL="../PCO_Description.vi"/>
-	<Item Name="PCO_Description2.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Description2.vi"/>
+	<Item Name="PCO_Description2.vi" Type="VI" URL="../PCO_Description2.vi"/>
 	<Item Name="PCO_Description3.vi" Type="VI" URL="../PCO_Description3.vi"/>
-	<Item Name="PCO_Description_Intensified.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Description_Intensified.vi"/>
-	<Item Name="PCO_DescriptionEx.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_DescriptionEx.vi"/>
+	<Item Name="PCO_Description_Intensified.vi" Type="VI" URL="../PCO_Description_Intensified.vi"/>
+	<Item Name="PCO_DescriptionEx.vi" Type="VI" URL="../PCO_DescriptionEx.vi"/>
 	<Item Name="PCO_FW_Vers.vi" Type="VI" URL="../PCO_FW_Vers.vi"/>
-	<Item Name="PCO_General.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_General.vi"/>
+	<Item Name="PCO_General.vi" Type="VI" URL="../PCO_General.vi"/>
 	<Item Name="PCO_HW_Vers.vi" Type="VI" URL="../PCO_HW_Vers.vi"/>
-	<Item Name="PCO_Image.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Image.vi"/>
-	<Item Name="PCO_Image_ColorSet.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Image_ColorSet.vi"/>
-	<Item Name="PCO_ImageTiming.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_ImageTiming.vi"/>
+	<Item Name="PCO_Image.vi" Type="VI" URL="../PCO_Image.vi"/>
+	<Item Name="PCO_Image_ColorSet.vi" Type="VI" URL="../PCO_Image_ColorSet.vi"/>
+	<Item Name="PCO_ImageTiming.vi" Type="VI" URL="../PCO_ImageTiming.vi"/>
 	<Item Name="PCO_Open_Struct.vi" Type="VI" URL="../PCO_Open_Struct.vi"/>
-	<Item Name="PCO_Recording.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Recording.vi"/>
+	<Item Name="PCO_Recording.vi" Type="VI" URL="../PCO_Recording.vi"/>
 	<Item Name="PCO_SC2_Firmware_Struct.vi" Type="VI" URL="../PCO_SC2_Firmware_Struct.vi"/>
 	<Item Name="PCO_SC2_Hardware_Struct.vi" Type="VI" URL="../PCO_SC2_Hardware_Struct.vi"/>
-	<Item Name="PCO_Segment.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Segment.vi"/>
-	<Item Name="PCO_Sensor.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Sensor.vi"/>
-	<Item Name="PCO_Signal.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Signal.vi"/>
-	<Item Name="PCO_Signal_Desc.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Signal_Desc.vi"/>
-	<Item Name="PCO_Single_Signal_Desc.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Single_Signal_Desc.vi"/>
-	<Item Name="PCO_Storage.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Storage.vi"/>
-	<Item Name="PCO_Timing.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/Structures/PCO_Timing.vi"/>
+	<Item Name="PCO_Segment.vi" Type="VI" URL="../PCO_Segment.vi"/>
+	<Item Name="PCO_Sensor.vi" Type="VI" URL="../PCO_Sensor.vi"/>
+	<Item Name="PCO_Signal.vi" Type="VI" URL="../PCO_Signal.vi"/>
+	<Item Name="PCO_Signal_Desc.vi" Type="VI" URL="../PCO_Signal_Desc.vi"/>
+	<Item Name="PCO_Single_Signal_Desc.vi" Type="VI" URL="../PCO_Single_Signal_Desc.vi"/>
+	<Item Name="PCO_Storage.vi" Type="VI" URL="../PCO_Storage.vi"/>
+	<Item Name="PCO_Timing.vi" Type="VI" URL="../PCO_Timing.vi"/>
 </Library>

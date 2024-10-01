@@ -9,11 +9,11 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="PCO_GetBitAlignment.vi" Type="VI" URL="../PCO_GetBitAlignment.vi"/>
-	<Item Name="PCO_GetHotPixelCorrectionMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageInformation/VIs/PCO_GetHotPixelCorrectionMode.vi"/>
-	<Item Name="PCO_GetImageStruct.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageInformation/VIs/PCO_GetImageStruct.vi"/>
-	<Item Name="PCO_GetNumberOfImagesInSegment.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageInformation/VIs/PCO_GetNumberOfImagesInSegment.vi"/>
-	<Item Name="PCO_GetSegmentImageSettings.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageInformation/VIs/PCO_GetSegmentImageSettings.vi"/>
-	<Item Name="PCO_GetSegmentStruct.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageInformation/VIs/PCO_GetSegmentStruct.vi"/>
+	<Item Name="PCO_GetHotPixelCorrectionMode.vi" Type="VI" URL="../PCO_GetHotPixelCorrectionMode.vi"/>
+	<Item Name="PCO_GetImageStruct.vi" Type="VI" URL="../PCO_GetImageStruct.vi"/>
+	<Item Name="PCO_GetNumberOfImagesInSegment.vi" Type="VI" URL="../PCO_GetNumberOfImagesInSegment.vi"/>
+	<Item Name="PCO_GetSegmentImageSettings.vi" Type="VI" URL="../PCO_GetSegmentImageSettings.vi"/>
+	<Item Name="PCO_GetSegmentStruct.vi" Type="VI" URL="../PCO_GetSegmentStruct.vi"/>
 	<Item Name="PCO_SetBitAlignment.vi" Type="VI" URL="../PCO_SetBitAlignment.vi"/>
-	<Item Name="PCO_SetHotPixelCorrectionMode.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.sdk/ImageInformation/VIs/PCO_SetHotPixelCorrectionMode.vi"/>
+	<Item Name="PCO_SetHotPixelCorrectionMode.vi" Type="VI" URL="../PCO_SetHotPixelCorrectionMode.vi"/>
 </Library>

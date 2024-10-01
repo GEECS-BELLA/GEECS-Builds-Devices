@@ -5,29 +5,29 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Structures" Type="Folder">
-		<Item Name="PCO_Bayer.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.convert/Structures/PCO_Bayer.vi"/>
-		<Item Name="PCO_Convert.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.convert/Structures/PCO_Convert.vi"/>
+		<Item Name="PCO_Bayer.vi" Type="VI" URL="../PCO_Bayer.vi"/>
+		<Item Name="PCO_Convert.vi" Type="VI" URL="../PCO_Convert.vi"/>
 		<Item Name="PCO_Display.vi" Type="VI" URL="../PCO_Display.vi"/>
-		<Item Name="PCO_Filter.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.convert/Structures/PCO_Filter.vi"/>
+		<Item Name="PCO_Filter.vi" Type="VI" URL="../PCO_Filter.vi"/>
 		<Item Name="PCO_SensorInfo.vi" Type="VI" URL="../PCO_SensorInfo.vi"/>
 	</Item>
 	<Item Name="PCO_Convert16TO8.vi" Type="VI" URL="../PCO_Convert16TO8.vi"/>
-	<Item Name="PCO_Convert16TO24.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.convert/VIs/PCO_Convert16TO24.vi"/>
+	<Item Name="PCO_Convert16TO24.vi" Type="VI" URL="../PCO_Convert16TO24.vi"/>
 	<Item Name="PCO_Convert16TOCOL.vi" Type="VI" URL="../PCO_Convert16TOCOL.vi"/>
 	<Item Name="PCO_Convert16TOCOL16.vi" Type="VI" URL="../PCO_Convert16TOCOL16.vi"/>
 	<Item Name="PCO_Convert16TOPSEUDO.vi" Type="VI" URL="../PCO_Convert16TOPSEUDO.vi"/>
 	<Item Name="PCO_ConvertCreate.vi" Type="VI" URL="../PCO_ConvertCreate.vi"/>
 	<Item Name="PCO_ConvertDelete.vi" Type="VI" URL="../PCO_ConvertDelete.vi"/>
-	<Item Name="PCO_ConvertGet.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.convert/VIs/PCO_ConvertGet.vi"/>
+	<Item Name="PCO_ConvertGet.vi" Type="VI" URL="../PCO_ConvertGet.vi"/>
 	<Item Name="PCO_ConvertGetDisplay.vi" Type="VI" URL="../PCO_ConvertGetDisplay.vi"/>
-	<Item Name="PCO_ConvertSet.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.convert/VIs/PCO_ConvertSet.vi"/>
-	<Item Name="PCO_ConvertSetBayer.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.convert/VIs/PCO_ConvertSetBayer.vi"/>
+	<Item Name="PCO_ConvertSet.vi" Type="VI" URL="../PCO_ConvertSet.vi"/>
+	<Item Name="PCO_ConvertSetBayer.vi" Type="VI" URL="../PCO_ConvertSetBayer.vi"/>
 	<Item Name="PCO_ConvertSetDisplay.vi" Type="VI" URL="../PCO_ConvertSetDisplay.vi"/>
-	<Item Name="PCO_ConvertSetFilter.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.convert/VIs/PCO_ConvertSetFilter.vi"/>
+	<Item Name="PCO_ConvertSetFilter.vi" Type="VI" URL="../PCO_ConvertSetFilter.vi"/>
 	<Item Name="PCO_ConvertSetSensorInfo.vi" Type="VI" URL="../PCO_ConvertSetSensorInfo.vi"/>
-	<Item Name="PCO_GetColorValues.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.convert/VIs/PCO_GetColorValues.vi"/>
+	<Item Name="PCO_GetColorValues.vi" Type="VI" URL="../PCO_GetColorValues.vi"/>
 	<Item Name="PCO_GetMaxLimit.vi" Type="VI" URL="../PCO_GetMaxLimit.vi"/>
 	<Item Name="PCO_GetWhiteBalance.vi" Type="VI" URL="../PCO_GetWhiteBalance.vi"/>
 	<Item Name="PCO_LoadPseudoLut.vi" Type="VI" URL="../PCO_LoadPseudoLut.vi"/>
-	<Item Name="PCO_WhiteBalanceToDisplayStruct.vi" Type="VI" URL="../../../../source/Device Drivers/PCO_Camera/pco.labview/pco.convert/VIs/PCO_WhiteBalanceToDisplayStruct.vi"/>
+	<Item Name="PCO_WhiteBalanceToDisplayStruct.vi" Type="VI" URL="../PCO_WhiteBalanceToDisplayStruct.vi"/>
 </Library>
