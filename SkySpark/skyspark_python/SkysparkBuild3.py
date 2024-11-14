@@ -225,8 +225,8 @@ if __name__ == '__main__':
              "Enter 'q' or 'quit' to exit"
     query = skysparkquery
     data = axon_request(query)
-    with open('datfile.txt','w') as file:
-        file.write(data)
+    #with open('datfile.txt','w') as file:
+    #    file.write(data)
     zinc_output = data
     grid = parse_zinc_output(zinc_output)
     output2, dfdisplay = process_data(grid)
