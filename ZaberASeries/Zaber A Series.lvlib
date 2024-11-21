@@ -25,6 +25,7 @@ See http://www.zaber.com/wiki/Software/ASCII_Labview_Driver for more information
 			<Item Name="Streaming" Type="Folder"/>
 			<Item Name="Virtual Axis" Type="Folder"/>
 			<Item Name="IO" Type="Folder"/>
+			<Item Name="Home.vi" Type="VI" URL="../Home.vi"/>
 			<Item Name="Move.vi" Type="VI" URL="../Move.vi"/>
 			<Item Name="Stop.vi" Type="VI" URL="../Stop.vi"/>
 		</Item>
