@@ -165,7 +165,7 @@
 				<Item Name="Pulse Train IsEqual.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/1siggen.llb/Pulse Train IsEqual.vi"/>
 				<Item Name="Pulse Train.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/1siggen.llb/Pulse Train.vi"/>
 				<Item Name="Ramp Pattern by Delta.vi" Type="VI" URL="../Ramp Pattern by Delta.vi"/>
-				<Item Name="Ramp Pattern by Samples.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/1siggen.llb/Ramp Pattern by Samples.vi"/>
+				<Item Name="Ramp Pattern by Samples.vi" Type="VI" URL="../Ramp Pattern by Samples.vi"/>
 				<Item Name="Ramp Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/1siggen.llb/Ramp Pattern.vi"/>
 				<Item Name="Riffle (obs 2012).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/1siggen.llb/Riffle (obs 2012).vi"/>
 				<Item Name="Riffle Array (CDB) (obs 2012).vi" Type="VI" URL="/&lt;vilib&gt;/Analysis/1siggen.llb/Riffle Array (CDB) (obs 2012).vi"/>
@@ -296,4 +296,4 @@
 		</Item>
 	</Item>
 </Library>
-<?sig FB080E84F27FE5A237473ACFE2CF6979?>
+<?sig 0411BB5A997580245AECA6C8885CDF36?>

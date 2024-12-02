@@ -19,7 +19,7 @@
 	<Item Name="IMAQ Histogram" Type="VI" URL="../IMAQ Histogram"/>
 	<Item Name="IMAQ Histograph" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ Histograph"/>
 	<Item Name="IMAQ LinearAverages" Type="VI" URL="../IMAQ LinearAverages"/>
-	<Item Name="IMAQ LineProfile" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ LineProfile"/>
+	<Item Name="IMAQ LineProfile" Type="VI" URL="../IMAQ LineProfile"/>
 	<Item Name="IMAQ Normal SSIM" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ Normal SSIM"/>
 	<Item Name="IMAQ Particle Analysis" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ Particle Analysis"/>
 	<Item Name="IMAQ Particle Analysis Report" Type="VI" URL="/&lt;vilib&gt;/vision/Analysis.llb/IMAQ Particle Analysis Report"/>
@@ -304,7 +304,7 @@
 	<Item Name="IMAQ OCR Verify Text" Type="VI" URL="/&lt;vilib&gt;/vision/OCR.llb/IMAQ OCR Verify Text"/>
 	<Item Name="IMAQ OCR Write Character Set File" Type="VI" URL="/&lt;vilib&gt;/vision/OCR.llb/IMAQ OCR Write Character Set File"/>
 	<Item Name="IMAQ Absolute Difference" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Absolute Difference"/>
-	<Item Name="IMAQ Add" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Add"/>
+	<Item Name="IMAQ Add" Type="VI" URL="../IMAQ Add"/>
 	<Item Name="IMAQ And" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ And"/>
 	<Item Name="IMAQ Compare" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Compare"/>
 	<Item Name="IMAQ Divide" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Divide"/>
@@ -423,4 +423,4 @@
 	<Item Name="IMAQ Extract Texture Feature" Type="VI" URL="/&lt;vilib&gt;/vision/Texture.llb/IMAQ Extract Texture Feature"/>
 	<Item Name="IMAQ Extract Wavelet Bands" Type="VI" URL="/&lt;vilib&gt;/vision/Texture.llb/IMAQ Extract Wavelet Bands"/>
 </Library>
-<?sig 7D402C77C15E7A0C73A4406514087AE3?>
+<?sig 34C6A9E0A8F3CEA52A14487DDBAACCEB?>
