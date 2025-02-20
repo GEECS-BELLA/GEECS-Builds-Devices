@@ -7,19 +7,19 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="lvfile" Type="Folder">
-		<Item Name="Can File be in LLB.vi" Type="VI" URL="../Can File be in LLB.vi"/>
+		<Item Name="Can File be in LLB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/lvfile.llb/Can File be in LLB.vi"/>
 		<Item Name="FT_FileTypes.ctl" Type="VI" URL="../FT_FileTypes.ctl"/>
 		<Item Name="Get File Type.vi" Type="VI" URL="../Get File Type.vi"/>
-		<Item Name="Get File Type Icon Image.vi" Type="VI" URL="../Get File Type Icon Image.vi"/>
-		<Item Name="Is File a LabVIEW document.vi" Type="VI" URL="../Is File a LabVIEW document.vi"/>
-		<Item Name="Is File a type of library.vi" Type="VI" URL="../Is File a type of library.vi"/>
-		<Item Name="Is File VI.vi" Type="VI" URL="../Is File VI.vi"/>
+		<Item Name="Get File Type Icon Image.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/lvfile.llb/Get File Type Icon Image.vi"/>
+		<Item Name="Is File a LabVIEW document.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/lvfile.llb/Is File a LabVIEW document.vi"/>
+		<Item Name="Is File a type of library.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/lvfile.llb/Is File a type of library.vi"/>
+		<Item Name="Is File VI.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/lvfile.llb/Is File VI.vi"/>
 		<Item Name="Is File an LLB.vi" Type="VI" URL="../Is File an LLB.vi"/>
 		<Item Name="LVFileType.ctl" Type="VI" URL="../LVFileType.ctl"/>
-		<Item Name="Convert filetype to Is VI.vi" Type="VI" URL="../Convert filetype to Is VI.vi"/>
-		<Item Name="Convert filetype to Icon Image.vi" Type="VI" URL="../Convert filetype to Icon Image.vi"/>
-		<Item Name="Convert filetype to Can be in LLB.vi" Type="VI" URL="../Convert filetype to Can be in LLB.vi"/>
-		<Item Name="Convert filetype to Is library type.vi" Type="VI" URL="../Convert filetype to Is library type.vi"/>
-		<Item Name="Convert filetype to Is LabVIEW document.vi" Type="VI" URL="../Convert filetype to Is LabVIEW document.vi"/>
+		<Item Name="Convert filetype to Is VI.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/lvfile.llb/Convert filetype to Is VI.vi"/>
+		<Item Name="Convert filetype to Icon Image.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/lvfile.llb/Convert filetype to Icon Image.vi"/>
+		<Item Name="Convert filetype to Can be in LLB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/lvfile.llb/Convert filetype to Can be in LLB.vi"/>
+		<Item Name="Convert filetype to Is library type.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/lvfile.llb/Convert filetype to Is library type.vi"/>
+		<Item Name="Convert filetype to Is LabVIEW document.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/lvfile.llb/Convert filetype to Is LabVIEW document.vi"/>
 	</Item>
 </Library>
