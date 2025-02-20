@@ -17,19 +17,72 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="GetRefnumInfoInternal.vi" Type="VI" URL="../GetRefnumInfoInternal.vi"/>
+		<Item Name="I32ToMemoryInfo.vi" Type="VI" URL="../I32ToMemoryInfo.vi"/>
+		<Item Name="I32ToRefnumType.vi" Type="VI" URL="../I32ToRefnumType.vi"/>
 		<Item Name="MDTFlavorToTypeEnum.vi" Type="VI" URL="../MDTFlavorToTypeEnum.vi"/>
+		<Item Name="MemoryInfoToI32.vi" Type="VI" URL="../MemoryInfoToI32.vi"/>
+		<Item Name="RefnumTypeToI32.vi" Type="VI" URL="../RefnumTypeToI32.vi"/>
+		<Item Name="SetNumericFxpBitInfo.vi" Type="VI" URL="../SetNumericFxpBitInfo.vi"/>
+		<Item Name="SetNumericFxpIncludeOverflowStatus.vi" Type="VI" URL="../SetNumericFxpIncludeOverflowStatus.vi"/>
+		<Item Name="SetNumericFxpRangeInfo.vi" Type="VI" URL="../SetNumericFxpRangeInfo.vi"/>
 	</Item>
 	<Item Name="Type Definitions" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Data Type.ctl" Type="VI" URL="../Data Type.ctl"/>
+		<Item Name="Memory Info.ctl" Type="VI" URL="../Memory Info.ctl"/>
+		<Item Name="Memory Type.ctl" Type="VI" URL="../Memory Type.ctl"/>
+		<Item Name="Polymorphic VI Time Stamp.ctl" Type="VI" URL="../Polymorphic VI Time Stamp.ctl"/>
+		<Item Name="Refnum Type.ctl" Type="VI" URL="../Refnum Type.ctl"/>
+		<Item Name="Tag Type.ctl" Type="VI" URL="../Tag Type.ctl"/>
+		<Item Name="Terminal Array.ctl" Type="VI" URL="../Terminal Array.ctl"/>
 		<Item Name="Type Definition Info.ctl" Type="VI" URL="../Type Definition Info.ctl"/>
+		<Item Name="Unit Info.ctl" Type="VI" URL="../Unit Info.ctl"/>
+		<Item Name="Unit Type.ctl" Type="VI" URL="../Unit Type.ctl"/>
+		<Item Name="VI Info.ctl" Type="VI" URL="../VI Info.ctl"/>
+		<Item Name="VI Server Generic Type.ctl" Type="VI" URL="../VI Server Generic Type.ctl"/>
 	</Item>
 	<Item Name="Get" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">0</Property>
+		<Item Name="Get Array Information.vi" Type="VI" URL="../Get Array Information.vi"/>
+		<Item Name="Get Channel Information.vi" Type="VI" URL="../Get Channel Information.vi"/>
+		<Item Name="Get Cluster Information.vi" Type="VI" URL="../Get Cluster Information.vi"/>
+		<Item Name="Get Fixed-Point Information.vi" Type="VI" URL="../Get Fixed-Point Information.vi"/>
+		<Item Name="Get LabVIEW Class Information.vi" Type="VI" URL="../Get LabVIEW Class Information.vi"/>
+		<Item Name="Get LabVIEW Class Parent And Member VI Information.vi" Type="VI" URL="../Get LabVIEW Class Parent And Member VI Information.vi"/>
+		<Item Name="Get Map Collection Information.vi" Type="VI" URL="../Get Map Collection Information.vi"/>
+		<Item Name="Get Numeric Information.vi" Type="VI" URL="../Get Numeric Information.vi"/>
+		<Item Name="Get Polymorphic VI Information.vi" Type="VI" URL="../Get Polymorphic VI Information.vi"/>
+		<Item Name="Get Refnum Information.vi" Type="VI" URL="../Get Refnum Information.vi"/>
+		<Item Name="Get Set Collection Information.vi" Type="VI" URL="../Get Set Collection Information.vi"/>
+		<Item Name="Get Tag Information.vi" Type="VI" URL="../Get Tag Information.vi"/>
 		<Item Name="Get Type Information.vi" Type="VI" URL="../Get Type Information.vi"/>
+		<Item Name="Get User-Defined Refnum Information.vi" Type="VI" URL="../Get User-Defined Refnum Information.vi"/>
+		<Item Name="Get User-Defined Tag Information.vi" Type="VI" URL="../Get User-Defined Tag Information.vi"/>
+		<Item Name="Get VI Information.vi" Type="VI" URL="../Get VI Information.vi"/>
+		<Item Name="Get Waveform Information.vi" Type="VI" URL="../Get Waveform Information.vi"/>
 	</Item>
 	<Item Name="Set" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">0</Property>
+		<Item Name="Scrub Type Names.vi" Type="VI" URL="../Scrub Type Names.vi"/>
+		<Item Name="Set Array Information.vi" Type="VI" URL="../Set Array Information.vi"/>
+		<Item Name="Set Cluster Information.vi" Type="VI" URL="../Set Cluster Information.vi"/>
+		<Item Name="Set Fixed-Point Information.vi" Type="VI" URL="../Set Fixed-Point Information.vi"/>
+		<Item Name="Set Map Collection Information.vi" Type="VI" URL="../Set Map Collection Information.vi"/>
+		<Item Name="Set Numeric Information.vi" Type="VI" URL="../Set Numeric Information.vi"/>
+		<Item Name="Set Refnum Information.vi" Type="VI" URL="../Set Refnum Information.vi"/>
+		<Item Name="Set Set Collection Information.vi" Type="VI" URL="../Set Set Collection Information.vi"/>
+		<Item Name="Set Type Information.vi" Type="VI" URL="../Set Type Information.vi"/>
+		<Item Name="Set User-Defined Refnum Information.vi" Type="VI" URL="../Set User-Defined Refnum Information.vi"/>
+		<Item Name="Set User-Defined Tag Information.vi" Type="VI" URL="../Set User-Defined Tag Information.vi"/>
+		<Item Name="Set VI Information.vi" Type="VI" URL="../Set VI Information.vi"/>
 	</Item>
-	<Item Name="Miscellaneous" Type="Folder"/>
+	<Item Name="Miscellaneous" Type="Folder">
+		<Item Name="Is or Contains Type Definition.vi" Type="VI" URL="../Is or Contains Type Definition.vi"/>
+		<Item Name="Disconnect Type Definitions.vi" Type="VI" URL="../Disconnect Type Definitions.vi"/>
+		<Item Name="Check for Contained Data Type.vi" Type="VI" URL="../Check for Contained Data Type.vi"/>
+		<Item Name="Get Type Definition Path.vi" Type="VI" URL="../Get Type Definition Path.vi"/>
+		<Item Name="Is Error Cluster.vi" Type="VI" URL="../Is Error Cluster.vi"/>
+	</Item>
+	<Item Name="All Palette VIs.vi" Type="VI" URL="../All Palette VIs.vi"/>
+	<Item Name="Get LabVIEW Class Default Palette Information.vi" Type="VI" URL="../Get LabVIEW Class Default Palette Information.vi"/>
 </Library>

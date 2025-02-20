@@ -8,10 +8,46 @@
 	<Property Name="NI.Lib.Version" Type="Str">14.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="manoise" Type="Folder"/>
-	<Item Name="masignal" Type="Folder"/>
-	<Item Name="maUtilsandCtls" Type="Folder">
-		<Item Name="ma_Check Waveform Timing.vi" Type="VI" URL="../ma_Check Waveform Timing.vi"/>
-		<Item Name="ma_patchErrorCode or Caller as Source.vi" Type="VI" URL="../ma_patchErrorCode or Caller as Source.vi"/>
+	<Item Name="manoise" Type="Folder">
+		<Item Name="Bernoulli Noise Waveform.vi" Type="VI" URL="../Bernoulli Noise Waveform.vi"/>
+		<Item Name="Binomial Noise Waveform.vi" Type="VI" URL="../Binomial Noise Waveform.vi"/>
+		<Item Name="Gamma Noise Waveform.vi" Type="VI" URL="../Gamma Noise Waveform.vi"/>
+		<Item Name="Gaussian White Noise Waveform.vi" Type="VI" URL="../Gaussian White Noise Waveform.vi"/>
+		<Item Name="Inverse f Noise Waveform.vi" Type="VI" URL="../Inverse f Noise Waveform.vi"/>
+		<Item Name="ma_Inverse f Settings Check.vi" Type="VI" URL="../ma_Inverse f Settings Check.vi"/>
+		<Item Name="MLS Sequence Waveform.vi" Type="VI" URL="../MLS Sequence Waveform.vi"/>
+		<Item Name="Periodic Random Noise Waveform.vi" Type="VI" URL="../Periodic Random Noise Waveform.vi"/>
+		<Item Name="Poisson Noise Waveform.vi" Type="VI" URL="../Poisson Noise Waveform.vi"/>
+		<Item Name="Uniform White Noise Waveform.vi" Type="VI" URL="../Uniform White Noise Waveform.vi"/>
 	</Item>
+	<Item Name="masignal" Type="Folder">
+		<Item Name="Basic Function Generator.vi" Type="VI" URL="../Basic Function Generator.vi"/>
+		<Item Name="ma_Trap Fgen Parameter Errors.vi" Type="VI" URL="../ma_Trap Fgen Parameter Errors.vi"/>
+		<Item Name="Sawtooth Waveform.vi" Type="VI" URL="../Sawtooth Waveform.vi"/>
+		<Item Name="Sine Waveform.vi" Type="VI" URL="../Sine Waveform.vi"/>
+		<Item Name="Square Waveform.vi" Type="VI" URL="../Square Waveform.vi"/>
+		<Item Name="Tones and Noise Waveform.vi" Type="VI" URL="../Tones and Noise Waveform.vi"/>
+		<Item Name="Triangle Waveform.vi" Type="VI" URL="../Triangle Waveform.vi"/>
+	</Item>
+	<Item Name="maUtilsandCtls" Type="Folder">
+		<Item Name="ma_array_Check Time Signal Continuity.vi" Type="VI" URL="../ma_array_Check Time Signal Continuity.vi"/>
+		<Item Name="ma_basicErrorCode2ErrorCluster.vi" Type="VI" URL="../ma_basicErrorCode2ErrorCluster.vi"/>
+		<Item Name="ma_Check Sampling Info.vi" Type="VI" URL="../ma_Check Sampling Info.vi"/>
+		<Item Name="ma_Check Time Signal Continuity.vi" Type="VI" URL="../ma_Check Time Signal Continuity.vi"/>
+		<Item Name="ma_Check Waveform Timing.vi" Type="VI" URL="../ma_Check Waveform Timing.vi"/>
+		<Item Name="ma_Compute t0 eps DBL.vi" Type="VI" URL="../ma_Compute t0 eps DBL.vi"/>
+		<Item Name="ma_Compute t0 eps timestamp.vi" Type="VI" URL="../ma_Compute t0 eps timestamp.vi"/>
+		<Item Name="ma_Compute t0 eps.vi" Type="VI" URL="../ma_Compute t0 eps.vi"/>
+		<Item Name="ma_ErrorCode2ErrorCluster.vi" Type="VI" URL="../ma_ErrorCode2ErrorCluster.vi"/>
+		<Item Name="ma_Find First Error.vi" Type="VI" URL="../ma_Find First Error.vi"/>
+		<Item Name="ma_patchErrorCode or Caller as Source.vi" Type="VI" URL="../ma_patchErrorCode or Caller as Source.vi"/>
+		<Item Name="ma_single_Check Time Signal Continuity.vi" Type="VI" URL="../ma_single_Check Time Signal Continuity.vi"/>
+		<Item Name="ma_time continuity checker.vi" Type="VI" URL="../ma_time continuity checker.vi"/>
+		<Item Name="ma_Update Timestamp.vi" Type="VI" URL="../ma_Update Timestamp.vi"/>
+		<Item Name="ma_Updatet0 DBL.vi" Type="VI" URL="../ma_Updatet0 DBL.vi"/>
+		<Item Name="ma_Updatet0 timestamp.vi" Type="VI" URL="../ma_Updatet0 timestamp.vi"/>
+		<Item Name="ma_Updatet0.vi" Type="VI" URL="../ma_Updatet0.vi"/>
+	</Item>
+	<Item Name="ma_single_Check Time Signal Continuity (CDB).vi" Type="VI" URL="../ma_single_Check Time Signal Continuity (CDB).vi"/>
+	<Item Name="ma_array_Check Time Signal Continuity (CDB).vi" Type="VI" URL="../ma_array_Check Time Signal Continuity (CDB).vi"/>
 </Library>

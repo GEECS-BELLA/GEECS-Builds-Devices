@@ -5,5 +5,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Enable Caching.vi" Type="VI" URL="../Enable Caching.vi"/>
 	<Item Name="Get Exported File List.vi" Type="VI" URL="../Get Exported File List.vi"/>
+	<Item Name="Get Exported File Path.vi" Type="VI" URL="../Get Exported File Path.vi"/>
+	<Item Name="Get Guid String.vi" Type="VI" URL="../Get Guid String.vi"/>
+	<Item Name="Get Source Project Path.vi" Type="VI" URL="../Get Source Project Path.vi"/>
+	<Item Name="Packed Library Path.vi" Type="VI" URL="../Packed Library Path.vi"/>
 </Library>
