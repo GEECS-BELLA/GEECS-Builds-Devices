@@ -15,6 +15,7 @@
 	<Item Name="IMAQ LinearAverages" Type="VI" URL="../IMAQ LinearAverages"/>
 	<Item Name="IMAQ LineProfile" Type="VI" URL="../IMAQ LineProfile"/>
 	<Item Name="IMAQ LowPass" Type="VI" URL="../IMAQ LowPass"/>
+	<Item Name="IMAQ NthOrder" Type="VI" URL="../IMAQ NthOrder"/>
 	<Item Name="IMAQ Extract" Type="VI" URL="../IMAQ Extract"/>
 	<Item Name="IMAQ Extract 2" Type="VI" URL="../IMAQ Extract 2"/>
 	<Item Name="IMAQ Extract Tetragon (ROI)" Type="VI" URL="../IMAQ Extract Tetragon (ROI)"/>
@@ -28,4 +29,4 @@
 	<Item Name="IMAQ Threshold" Type="VI" URL="../IMAQ Threshold"/>
 	<Item Name="IMAQ ROIToMask 2" Type="VI" URL="../IMAQ ROIToMask 2"/>
 </Library>
-<?sig 927A35141AE1159C37E19C9A218FCE85?>
+<?sig 787B56E9D546BFCB9E41801C9B82244B?>
