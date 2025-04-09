@@ -35,12 +35,10 @@
 			<Item Name="Initiate.vi" Type="VI" URL="../Initiate.vi"/>
 			<Item Name="Wait for Operation Complete.vi" Type="VI" URL="../Wait for Operation Complete.vi"/>
 		</Item>
-		<Item Name="Read (Multiple Waveforms).vi" Type="VI" URL="../Read (Multiple Waveforms).vi"/>
 		<Item Name="Read Waveform Measurement.vi" Type="VI" URL="../Read Waveform Measurement.vi"/>
 	</Item>
 	<Item Name="Tektronix Model Check.vi" Type="VI" URL="../Tektronix Model Check.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Fetch Waveform (1D I16 (unscaled))-ajg.vi" Type="VI" URL="../Fetch Waveform (1D I16 (unscaled))-ajg.vi"/>
 	<Item Name="Close.vi" Type="VI" URL="../Tektronix DPO MSO 2000 4000 Series/Close.vi"/>
 </Library>
