@@ -203,7 +203,7 @@
 	<Item Name="IMAQ 3DView" Type="VI" URL="/&lt;vilib&gt;/vision/Image Manipulation.llb/IMAQ 3DView"/>
 	<Item Name="IMAQ ClipboardToImage" Type="VI" URL="/&lt;vilib&gt;/vision/Image Manipulation.llb/IMAQ ClipboardToImage"/>
 	<Item Name="IMAQ Expand" Type="VI" URL="../IMAQ Expand"/>
-	<Item Name="IMAQ Extract" Type="VI" URL="../IMAQ Extract"/>
+	<Item Name="IMAQ Extract" Type="VI" URL="/&lt;vilib&gt;/vision/Image Manipulation.llb/IMAQ Extract"/>
 	<Item Name="IMAQ Extract 2" Type="VI" URL="/&lt;vilib&gt;/vision/Image Manipulation.llb/IMAQ Extract 2"/>
 	<Item Name="IMAQ Extract Tetragon" Type="VI" URL="/&lt;vilib&gt;/vision/Image Manipulation.llb/IMAQ Extract Tetragon"/>
 	<Item Name="IMAQ Extract Tetragon (Point Array)" Type="VI" URL="/&lt;vilib&gt;/vision/Image Manipulation.llb/IMAQ Extract Tetragon (Point Array)"/>
@@ -312,7 +312,7 @@
 	<Item Name="IMAQ Mask" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Mask"/>
 	<Item Name="IMAQ Modulo" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Modulo"/>
 	<Item Name="IMAQ MulDiv" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ MulDiv"/>
-	<Item Name="IMAQ Multiply" Type="VI" URL="../IMAQ Multiply"/>
+	<Item Name="IMAQ Multiply" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Multiply"/>
 	<Item Name="IMAQ Or" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Or"/>
 	<Item Name="IMAQ Subtract" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Subtract"/>
 	<Item Name="IMAQ Xor" Type="VI" URL="/&lt;vilib&gt;/vision/Operator.llb/IMAQ Xor"/>
@@ -423,4 +423,4 @@
 	<Item Name="IMAQ Extract Texture Feature" Type="VI" URL="/&lt;vilib&gt;/vision/Texture.llb/IMAQ Extract Texture Feature"/>
 	<Item Name="IMAQ Extract Wavelet Bands" Type="VI" URL="/&lt;vilib&gt;/vision/Texture.llb/IMAQ Extract Wavelet Bands"/>
 </Library>
-<?sig 07DA9D78FBE9703DA95B13A81ED83E5C?>
+<?sig 6348FF518E4DE05B198A28F939C3FCCF?>
