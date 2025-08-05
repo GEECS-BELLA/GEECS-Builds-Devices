@@ -15,6 +15,7 @@
 	<Item Name="IMAQ LinearAverages" Type="VI" URL="../IMAQ LinearAverages"/>
 	<Item Name="IMAQ LineProfile" Type="VI" URL="../IMAQ LineProfile"/>
 	<Item Name="IMAQ LowPass" Type="VI" URL="../IMAQ LowPass"/>
+	<Item Name="IMAQ NthOrder" Type="VI" URL="../IMAQ NthOrder"/>
 	<Item Name="IMAQ Extract" Type="VI" URL="../IMAQ Extract"/>
 	<Item Name="IMAQ Extract 2" Type="VI" URL="../IMAQ Extract 2"/>
 	<Item Name="IMAQ Rotate" Type="VI" URL="../IMAQ Rotate"/>
@@ -22,8 +23,9 @@
 	<Item Name="IMAQ Cast Image" Type="VI" URL="../IMAQ Cast Image"/>
 	<Item Name="IMAQ ImageToImage 2" Type="VI" URL="../IMAQ ImageToImage 2"/>
 	<Item Name="IMAQ Add" Type="VI" URL="../IMAQ Add"/>
+	<Item Name="IMAQ Multiply" Type="VI" URL="../IMAQ Multiply"/>
 	<Item Name="IMAQ Subtract" Type="VI" URL="../IMAQ Subtract"/>
 	<Item Name="IMAQ Threshold" Type="VI" URL="../IMAQ Threshold"/>
 	<Item Name="IMAQ ROIToMask 2" Type="VI" URL="../IMAQ ROIToMask 2"/>
 </Library>
-<?sig 3F91F4CC1B93C4415A9C6FDD988D6A28?>
+<?sig 6286CCFDD48BA367F175298C2A0AD748?>
