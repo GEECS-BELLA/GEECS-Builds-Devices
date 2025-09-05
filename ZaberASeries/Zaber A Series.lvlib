@@ -17,6 +17,7 @@ See http://www.zaber.com/wiki/Software/ASCII_Labview_Driver for more information
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Action-Status" Type="Folder">
 			<Item Name="Low Level" Type="Folder">
+				<Item Name="Check for Idle.vi" Type="VI" URL="../Check for Idle.vi"/>
 				<Item Name="Poll Until Idle.vi" Type="VI" URL="../Poll Until Idle.vi"/>
 				<Item Name="Send Command.vi" Type="VI" URL="../Send Command.vi"/>
 			</Item>
