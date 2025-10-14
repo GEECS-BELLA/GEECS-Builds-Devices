@@ -11,8 +11,6 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="IMAQ Expand" Type="VI" URL="../IMAQ Expand"/>
-	<Item Name="IMAQ Extract" Type="VI" URL="../IMAQ Extract"/>
 	<Item Name="IMAQ Cast Image" Type="VI" URL="../IMAQ Cast Image"/>
-	<Item Name="IMAQ Multiply" Type="VI" URL="../IMAQ Multiply"/>
 </Library>
-<?sig 52B006BC469976B77DB69F510E205E52?>
+<?sig 11EA4EFEA974A7D3B0BB6F011D0EA1CE?>
