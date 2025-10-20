@@ -543,7 +543,7 @@
 	<Item Name="HardwareAcquire.vi" Type="VI" URL="../HardwareAcquire.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'7!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"&amp;!#A!,=G6B:#"C&gt;7:G:8)!&amp;E"!!!(`````!!5*='^T;82J&lt;WZT!#J!=!!?!!!1$E645$-Q-3ZM&gt;G.M98.T!!!/26.1-T!R,GRW9WRB=X-!!$&gt;!&amp;A!%$EZP&gt;#"S:7:F=G6O9W6E"EBP&lt;7FO:Q:.&lt;X:J&lt;G=&amp;5G6B:(E!!!N"?'FT)&amp;.U982V=Q!;1%!!!@````]!#!RN&lt;X2P=C"4&gt;'&amp;U&gt;8-!!""!)1N.&lt;X2J&lt;WYA2'^O:1!;1%!!!@````]!#AR1&lt;X&gt;F=C"4&gt;'&amp;U&gt;8-!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!91$Q!!Q!!Q!%!!9!"Q!*!!M!"!!%!!Q!"!!%!!=$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!#1!!!!E!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!I!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
