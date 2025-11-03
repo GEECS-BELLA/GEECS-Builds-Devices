@@ -10,7 +10,12 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Filter" Type="Folder"/>
+		<Item Name="Filter" Type="Folder">
+			<Item Name="Get Acceleration Feed-Forward Gain.vi" Type="VI" URL="../Get Acceleration Feed-Forward Gain.vi"/>
+			<Item Name="Get Velocity Feed-Forward Gain.vi" Type="VI" URL="../Get Velocity Feed-Forward Gain.vi"/>
+			<Item Name="Set Acceleration Feed-Forward Gain.vi" Type="VI" URL="../Set Acceleration Feed-Forward Gain.vi"/>
+			<Item Name="Set Velocity Feed-Forward Gain.vi" Type="VI" URL="../Set Velocity Feed-Forward Gain.vi"/>
+		</Item>
 		<Item Name="Flow Control &amp; Sequencing" Type="Folder"/>
 		<Item Name="General Mode Selection" Type="Folder">
 			<Item Name="Enable Disable Motor.vi" Type="VI" URL="../Enable Disable Motor.vi"/>
@@ -36,6 +41,8 @@
 			<Item Name="Revision Query.vi" Type="VI" URL="../Revision Query.vi"/>
 		</Item>
 		<Item Name="Trajectory" Type="Folder">
+			<Item Name="Get Acceleration.vi" Type="VI" URL="../Get Acceleration.vi"/>
+			<Item Name="Get Velocity.vi" Type="VI" URL="../Get Velocity.vi"/>
 			<Item Name="Set Acceleration.vi" Type="VI" URL="../Set Acceleration.vi"/>
 			<Item Name="Set Deceleration.vi" Type="VI" URL="../Set Deceleration.vi"/>
 			<Item Name="Set Velocity.vi" Type="VI" URL="../Set Velocity.vi"/>
