@@ -18,24 +18,15 @@
 	<Item Name="Private VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Add Key.vi" Type="VI" URL="../Add Key.vi"/>
-		<Item Name="Add Quotes.vi" Type="VI" URL="../Add Quotes.vi"/>
-		<Item Name="Escape String.vi" Type="VI" URL="../Escape String.vi"/>
 		<Item Name="Get Key.vi" Type="VI" URL="../Get Key.vi"/>
 		<Item Name="Get Section.vi" Type="VI" URL="../Get Section.vi"/>
 		<Item Name="Section.ctl" Type="VI" URL="../Section.ctl"/>
-		<Item Name="Specific Path to Common Path.vi" Type="VI" URL="../Specific Path to Common Path.vi"/>
 		<Item Name="Typecast Queue to Refnum.vi" Type="VI" URL="../Typecast Queue to Refnum.vi"/>
 		<Item Name="Typecast Refnum to Queue.vi" Type="VI" URL="../Typecast Refnum to Queue.vi"/>
 	</Item>
 	<Item Name="Read" Type="Folder"/>
 	<Item Name="Remove" Type="Folder"/>
 	<Item Name="Write" Type="Folder">
-		<Item Name="Write Key (Boolean).vi" Type="VI" URL="../Write Key (Boolean).vi"/>
 		<Item Name="Write Key (Double).vi" Type="VI" URL="../Write Key (Double).vi"/>
-		<Item Name="Write Key (I32).vi" Type="VI" URL="../Write Key (I32).vi"/>
-		<Item Name="Write Key (Path).vi" Type="VI" URL="../Write Key (Path).vi"/>
-		<Item Name="Write Key (String).vi" Type="VI" URL="../Write Key (String).vi"/>
-		<Item Name="Write Key (U32).vi" Type="VI" URL="../Write Key (U32).vi"/>
-		<Item Name="Write Key.vi" Type="VI" URL="../Write Key.vi"/>
 	</Item>
 </Library>
