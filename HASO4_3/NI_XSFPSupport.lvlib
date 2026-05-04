@@ -6,5 +6,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="SFPReplaceAction.ctl" Type="VI" URL="../SFPReplaceAction.ctl"/>
 	<Item Name="SFPChangeStateAction.ctl" Type="VI" URL="../SFPChangeStateAction.ctl"/>
 </Library>
