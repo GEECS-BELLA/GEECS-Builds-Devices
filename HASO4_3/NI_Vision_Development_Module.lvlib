@@ -10,5 +10,8 @@
 	<Property Name="NI.Lib.Version" Type="Str">20.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="IMAQ Extract" Type="VI" URL="../IMAQ Extract"/>
+	<Item Name="IMAQ Cast Image" Type="VI" URL="../IMAQ Cast Image"/>
+	<Item Name="IMAQ Multiply" Type="VI" URL="../IMAQ Multiply"/>
 </Library>
-<?sig C6F5698CB7AB81B118D48AB65F512607?>
+<?sig B5F039680A1EC266B74FFAA658545A1E?>
