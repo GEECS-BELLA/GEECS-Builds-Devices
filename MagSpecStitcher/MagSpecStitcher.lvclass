@@ -137,4 +137,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
+	<Item Name="mspec stitcher get images.vi" Type="VI" URL="../mspec stitcher get images.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%*!!!!#!!%!!!!$E!B#62J&lt;76E)'^V&gt;!!11&amp;-,&gt;G&amp;S;7&amp;O&gt;#"P&gt;81!0%"Q!"Y!!"E847&amp;H5X"F9V.U;82D;'6S,GRW9WRB=X-!'5VB:V.Q:7.4&gt;'FU9WBF=CZM&gt;G.M98.T)$)!"!!B!""!1!!"`````Q!%!E^,!!!O1(!!(A!!'2&gt;.97&gt;4='6D5X2J&gt;'.I:8)O&lt;(:D&lt;'&amp;T=Q!,5X2J&gt;'.I:8)A;7Y!91$Q!!Q!!!!"!!)!!Q!&amp;!!!!!!!!!!!!!!!!!!9$!!"Y!!!!!!!!#1!!!!E!!!!*!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!"Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710289</Property>
+	</Item>
 </LVClass>
