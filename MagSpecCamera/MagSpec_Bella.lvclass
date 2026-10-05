@@ -22,7 +22,7 @@
 
 </Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
-		<Item Name="BaseDriver.lvclass" Type="Parent" URL="/C/GEECS/Developers Version/source/Device Drivers/BaseDriver/BaseDriver.lvclass"/>
+		<Item Name="BaseDriver.lvclass" Type="Parent" URL="../../../../source/Device Drivers/BaseDriver/BaseDriver.lvclass"/>
 	</Item>
 	<Item Name="MagSpec_Bella.ctl" Type="Class Private Data" URL="MagSpec_Bella.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

@@ -26,7 +26,7 @@
 
 </Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
-		<Item Name="BaseDriver.lvclass" Type="Parent" URL="/C/GEECS/Developers Version/source/Device Drivers/BaseDriver/BaseDriver.lvclass"/>
+		<Item Name="BaseDriver.lvclass" Type="Parent" URL="../../../../source/Device Drivers/BaseDriver/BaseDriver.lvclass"/>
 	</Item>
 	<Item Name="Point Grey Camera.ctl" Type="Class Private Data" URL="Point Grey Camera.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
